@@ -1,0 +1,22 @@
+{include file="admin/header" /}
+
+<h3>Welcome to check the overall progress.<h3>
+
+<h4>Statistics: {$completed} / {$total} completed. ({$percentage} %) </h4>
+<img id="demo"></img>
+<h4>Current ID: <span id="cid">0</span></h4>
+
+<section id="markers">
+
+</section>
+{include file="admin/js" /}
+<script>
+Apollo.list = {$list};
+Apollo.old_list = {$old_list};
+Apollo.total = {$Think.config.total_tasks};
+Apollo.baseUrl		=	"__APP__";
+</script>
+<script src="__JS__/app/check.js"></script>
+
+</body>
+</html>

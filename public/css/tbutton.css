@@ -1,0 +1,65 @@
+.tbutton {
+display:inline-block;
+margin-left:.2em;
+margin-top:.25em;
+margin-bottom:.25em;
+font-size:.8em;
+cursor:pointer;
+text-align:center;
+text-decoration:none;
+outline:none;
+color:#fff;
+border:none;
+border-radius:15px;
+box-shadow:.1em .1em #999;
+padding:.4em .8em;
+}
+
+.tbutton:active {
+box-shadow:0 5px #666;
+transform:translateY(4px);
+}
+
+.tbutton.todo {
+background-color:#fc4e2a;
+}
+
+.tbutton.todo:hover {
+background-color:#e31a1c;
+}
+
+.tbutton.todo:active {
+background-color:#b10026;
+}
+
+.tbutton.doing {
+background-color:#807dba;
+}
+
+.tbutton.doing:hover {
+background-color:#54278f;
+}
+
+.tbutton.doing:active {
+background-color:#3f007d;
+}
+
+.tbutton.done {
+background-color:#4CAF50;
+}
+
+.tbutton.disable {
+background-color:#D2D2D2;
+}
+
+.tbutton.disable:hover {
+background-color:#b9b9b9;
+}
+
+.tbutton.disable:active {
+background-color:#a9a9a9;
+}
+
+.tbutton.done:hover,.tbutton.done:active {
+background-color:#3e8e41;
+}

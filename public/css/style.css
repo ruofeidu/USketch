@@ -1,0 +1,279 @@
+* {
+border:0;
+outline:0;
+font-size:100%;
+vertical-align:baseline;
+background:transparent;
+margin:0;
+padding:0;
+}
+
+html,body,section,div {
+height:100%;
+border:0;
+}
+
+body {
+color:#fff;
+font-family: Tahoma, Helvetica, Arial, "Microsoft Yahei","微软雅黑", STXihei, "华文细黑", sans-serif;
+font-size:1.25rem;
+line-height:150%;
+text-align:center;
+/* overflow:hidden; */
+}
+
+section {
+width:100%;
+}
+
+article {
+position:relative;
+top:.5%;
+text-align:center;
+}
+
+h1 {
+font-size:1.5em;
+text-shadow:0 2px 2px #b6701e;
+margin:.4em 0;
+}
+
+h2 {
+font-size:1em;
+text-shadow:0 2px 2px #b6701e;
+margin:.1em 0;
+}
+
+h3 {
+font-size:2em;
+text-shadow:none;
+color:black;
+margin:1em;
+}
+
+h4 {
+font-size:1em;
+text-shadow:none;
+color:black;
+margin:0.5em;
+}
+
+#panel {
+background-color:#ff9e2c;
+float:left;
+width:30%;
+}
+
+#rightwards {
+background-color:#FFF;
+float:left;
+width:70%;
+}
+
+#candidates-container {
+text-align: center;
+}
+
+#canvas {
+position:relative;
+top:50%;
+left:50%;
+width:750px;
+height:750px;
+background-color:rgba(1.0,1.0,1.0,0.0);
+background-size:100% 100%;
+overflow:hidden;
+margin:-375px 0 0 -375px;
+}
+
+.with-order {
+border:3px solid #000;
+}
+
+.task-buttons {
+width:100%;
+height:2.5em;
+margin:auto;
+}
+
+.candidate {
+float:left;
+margin-left:.2em;
+margin-bottom:.2em;
+overflow:hidden;
+border-color:rgba(1.0,1.0,1.0,1.0);
+border-style:solid;
+border-width:2px;
+}
+
+.candidate:hover {
+cursor:pointer;
+border-color:green;
+}
+
+.box-wrapper {
+position:absolute;
+top:0;
+left:0;
+width:200px;
+height:200px;
+}
+
+.box {
+top:0;
+left:0;
+width:200px;
+height:200px;
+cursor:move;
+}
+
+.ui-rotatable-handle {
+background:url(images/rotate.png);
+background-repeat:no-repeat;
+background-size:100% 100%;
+height:25px;
+width:25px;
+position:absolute;
+cursor:cell;
+z-index:999;
+}
+
+.ui-rotatable-handle-sw {
+bottom:-27px;
+left:-27px;
+}
+
+.ui-rotatable-handle-nw {
+top:-27px;
+left:-27px;
+}
+
+.ui-rotatable-handle-se {
+bottom:-27px;
+right:-27px;
+}
+
+.ui-rotatable-handle-ne {
+top:-27px;
+right:-27px;
+}
+
+.ui-resizable-handle {
+background-color:#000;
+width:8px;
+height:8px;
+}
+
+.ui-resizable-se {
+bottom:-5px;
+right:-5px;
+}
+
+.dialog-text {
+text-align:left;
+text-shadow:none;
+}
+
+#subjects {
+color:gray;
+font-size:1em;
+width:80%;
+}
+
+#layers {
+color:gray;
+font-size:1em;
+width:70%;
+}
+
+
+.ui-selectmenu-button {
+line-height:1.1;
+}
+
+.ui-selectmenu-menu .ui-menu {
+max-height:500px;
+}
+
+.ui-selectmenu-button span.ui-selectmenu-text {
+line-height:1.1;
+text-align:center;
+padding:.3em 0;
+}
+
+#ipad {
+position:absolute;
+top:0;
+left:0;
+}
+
+.penpad {
+z-index:99;
+cursor:url(images/pen.png), auto;
+}
+
+.eraserpad {
+z-index:99;
+cursor:url(images/eraser.png), auto;
+}
+
+.stdpad {
+cursor:pointer;
+}
+
+#candidates-refresh {
+cursor:zoom-in;
+}
+#select-road {
+cursor:alias;
+}
+
+
+#ipad-wrapper {
+z-index:999;
+}
+
+#task-button-left,#task-button-right {
+float:left;
+width:48%;
+margin:auto;
+}
+
+.clear {
+    clear: both;
+}
+
+
+.hisimg {
+	width: 170px;
+	height: 170px;
+	border-style: solid;
+    border-width: 1px;
+	border-color: #EEEEEE;
+}
+
+.hisimg:hover {
+	cursor: pointer;
+	border-color: black;
+}
+
+.hisimg.selected {
+	width: 170px;
+	height: 170px;
+	border-style: solid;
+    border-width: 2px;
+	border-color: red;
+}
+
+.hispan {
+	font-size:1.5rem;
+	color:black;
+	vertical-align: top;
+	padding:0.5rem;
+}
+
+.hispics {
+	display:inline-block;
+	height: auto;
+	
+}

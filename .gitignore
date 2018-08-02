@@ -1,0 +1,15 @@
+.idea
+composer.lock
+*.log
+*.zip
+thinkphp
+public/images/
+results/
+results1/
+results1_old/
+results2/
+results3/
+backup1/
+backup2/
+backup3/
+temp/

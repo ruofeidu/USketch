@@ -1,0 +1,149 @@
+{include file="common/header" /}
+
+{eq name="Think.lang.cn" value="0"}
+<a href="?lang=zh-cn&task={$task}">
+{else/}
+<a href="?lang=en-us&task={$task}">
+{/eq}
+<img style="position: absolute; top: 0; right: 0; border: 0;" src="__PUBLIC__/images/lang.png"></a>
+
+<section id="apollo">
+<div id="panel">
+<article>
+	<h1>{$Think.lang.task} {$task}</h1>
+
+	<div class="task-buttons">
+		<div id="task-button-left">
+		<a href="#" class="button gray" id="load" title="{$Think.lang.load_tips}">
+			{$Think.lang.load}
+		</a>
+		<a href="#" class="button gray" id="previous">
+			{$Think.lang.back}
+		</a>
+		</div>
+
+		<div id="task-button-right">
+		<a href="#" class="button" id="save" title="{$Think.lang.save_tips}">
+			{$Think.lang.save}
+		</a>
+		<a href="#" class="button" id="next" title="{$Think.lang.next_tips}">
+			{$Think.lang.next}
+		</a>
+		</div>
+	</div>
+	
+	<h2 title="{$Think.lang.subject_tips}" id="select-road">{$Think.lang.subject}</h2>
+	<div class="btn-group btn-group-justified" role="group" id="tasks">
+	</div>
+	
+    <select id="subjects">
+		<option disabled selected>{$Think.lang.subject_menu}</option>
+    </select>
+	<br/> 
+		<button class="tbutton done" id="reference" title="{$Think.lang.draft_tips}">
+			{$Think.lang.draft}
+		</button>
+		<button class="tbutton todo" id="check" title="{$Think.lang.check_tips}">
+			{$Think.lang.check}
+		</button>
+		<button class="tbutton todo" id="remove" title="{$Think.lang.remove_tips}">
+			{$Think.lang.remove}
+		</button>
+		<br/>
+		
+		<button class="tbutton todo" id="pen" title="{$Think.lang.pen_tips}">
+			{$Think.lang.pen}
+		</button>
+		<button class="tbutton todo" id="eraser" title="{$Think.lang.eraser_tips}">
+			{$Think.lang.eraser}
+		</button>
+		<button class="tbutton todo" id="undo" title="{$Think.lang.undo_tips}">
+			{$Think.lang.undo}
+		</button>
+		<button class="tbutton todo" id="reset" title="{$Think.lang.clear_tips}">
+			{$Think.lang.clear}
+		</button>
+		
+		<br/>
+		<button class="tbutton doing" id="moveup" title="{$Think.lang.moveup_tips}">
+			{$Think.lang.moveup}
+		</button>
+		<button class="tbutton doing" id="movedown" title="{$Think.lang.movedown_tips}">
+			{$Think.lang.movedown}
+		</button>
+		<button class="tbutton doing" id="flip" title="{$Think.lang.flip_tips}">
+			{$Think.lang.flip}
+		</button>
+	<br/>
+	
+	<h2 id="candidates-refresh" title="{$Think.lang.candidates_tips}">{$Think.lang.candidates}</h2>
+	<div id="candidates-container"></div>
+	<h2 id="candidates-nothing">{$Think.lang.candidates_none}</h2>
+	<br/>
+	<div class="clear">
+	<h2>{$Think.lang.layers}</h2>
+	</div>
+    <select id="layers">
+		<option disabled selected>{$Think.lang.layers_selected}</option>
+    </select>
+	<!-- <h2>{$Think.lang.layers}</h2> -->
+</article>
+</div>
+
+<div id="rightwards">
+	<div id="canvas" class="with-order reference-on">
+		<div id="ipad-wrapper"><canvas class="penpad" id="ipad" width="750" height="750"></canvas><div/>
+	</div>
+</div>
+</section>
+
+
+<div id="dialog-confirm" title="{$Think.lang.confirm}">
+<p class="dialog-text">
+	{$Think.lang.confirm_tips}
+</p>
+</div>
+ 
+<div id="dialog-success" title="{$Think.lang.submit}">
+<p class="dialog-text">
+	{$Think.lang.submit_tips}
+</p>
+</div>
+
+<div id="dialog-fail" title="{$Think.lang.neterr}">
+<p class="dialog-text">
+	{$Think.lang.neterr_tips}
+</p>
+</div>
+
+<div id="dialog-insuffucient" title="{$Think.lang.insuferr}">
+<p class="dialog-text">
+	{$Think.lang.insuferr_tips}
+</p>
+</div>
+
+<div id="dialog-loading" title="{$Think.lang.loading}">
+<p class="dialog-text">
+	{$Think.lang.loading_tips}
+</p>
+</div>
+
+<div id="dialog-saved" title="{$Think.lang.saved}">
+<p class="dialog-text">
+	{$Think.lang.saved_tips}
+</p>
+<p id="saved-pic">
+</p>
+</div>
+
+<div id="dialog-history" title="{$Think.lang.history}">
+<p class="dialog-history">
+	{$Think.lang.history_tips} <span class="hispan" id="hispan"></span>
+</p>
+<p id="dialog-history-pics">
+</p>
+</div>
+
+{include file="common/js" /}
+</body>
+</html>

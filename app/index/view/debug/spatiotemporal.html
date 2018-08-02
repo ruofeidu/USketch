@@ -1,0 +1,19 @@
+{include file="admin/header" /}
+
+<h3>Welcome to the overview!<h3>
+
+<h4>Statistics: {$admin} / {$total} completed. <h4>
+<h4>{$percentage} % </h4>
+<h4>To clear the cache, you may need Shift+F5 to force the browser to update the thumbnails.</h4>
+<br/>
+
+{volist name="list" id="vo" }
+<div class="pics">
+<span>{$vo}</span><a href="__APP__?task={$vo}" target="_blank"><img class="hi" task="{$vo}" src="__APP__results1/{$vo}.png"/></a>
+</div>
+{eq name="$i%7" value="0"}<br/>{/eq}
+{/volist}
+
+{include file="admin/js" /}
+</body>
+</html>

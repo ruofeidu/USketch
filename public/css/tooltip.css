@@ -1,0 +1,12 @@
+.ui-tooltip {
+    background: #666;
+    color: white;
+    border: none;
+    padding-left: 0.5em;
+    opacity: 0.9;
+	height: auto;
+	text-shadow: none;
+	text-align: left;
+	font-size: 0.8em;
+	line-height: 150%;
+}

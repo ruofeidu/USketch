@@ -1,0 +1,50 @@
+<!-- 3rd Parties -->
+
+<!-- jQuery -->
+<script src="__JS__/libs/jquery/jquery-1.8.2.min.js"></script>
+<script src="__JS__/libs/jquery/jquery-ui.min.js"></script>
+<script src="__JS__/libs/jquery/jquery.ui.rotatable.min.js"></script>
+<script src="__JS__/libs/jquery/jquery.simulate.js"></script>
+
+<script src="__JS__/libs/canvas/html2canvas.min.js"></script>
+<script src="__JS__/libs/canvas/signature_pad.min.js"></script>
+<script src="__JS__/libs/canvas/hermite.js"></script>
+
+<script src="__JS__/libs/controls/mousetrap.min.js"></script>
+
+<!-- Apollo -->
+<script type="text/javascript">
+/**
+ * Global Variables
+ * @Author: Ruofei Du
+ */
+var Apollo = {};
+Apollo.baseUrl		=	"__APP__";
+Apollo.publicUrl	=	"__APP__" + "public/";
+<!-- Apollo.publicUrl	=	"http://localhost/create/" + "public/"; -->
+Apollo.texUrl		=	"__APP__" + "public/textures/";
+Apollo.videoUrl		=	"__APP__" + "public/videos/";
+Apollo.modelUrl		=	"__APP__" + "public/models/";
+Apollo.pid			=	"{$Think.session.pid}";
+
+Apollo.suffix		=	"";
+Apollo.task			=	{$task};
+Apollo.scene		=	"{$scene}";
+Apollo.reference	=	"{$reference}";
+Apollo.catefolder	=	"__FOLDER__"
+</script>
+
+<script src="__JS__/app/Item.js?{$ver}"></script>
+<script src="__JS__/app/parameter.js?{$ver}"></script>
+<script src="__JS__/app/functions.js?{$ver}"></script>
+
+<script src="__JS__/app/App.js?{$ver}"></script>
+
+<script src="__JS__/input/Constants.js?{$ver}"></script>
+<script src="__JS__/input/Globals.js?{$ver}"></script>
+<script src="__JS__/input/category.js?{$ver}"></script>
+
+<script src="__JS__/app/Layout.js?{$ver}"></script>
+<script src="__JS__/app/start.js?{$ver}"></script>
+
+<script src="__JS__/app/key.js?{$ver}"></script>
