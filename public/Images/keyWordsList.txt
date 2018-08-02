@@ -1,0 +1,1804 @@
+bird,cloud,mountain,sun,tree
+cat,moon,mountain,star,tree
+cloud,dog,mountain,sun,tree
+cloud,cow,mountain,sun,tree
+chicken,cloud,mountain,sun,tree
+duck,mountain,sun,tree
+cloud,mountain,sheep,sun,tree
+butterfly,grass,moon,star,tree
+bee,cloud,grass,sun,tree
+cloud,grass,mountain,rabbit,sun,tree
+bird,cat,grass,moon,star,tree
+bird,cloud,dog,grass,sun,tree
+bird,cow,grass,mountain,sun,tree
+chicken,cow,grass,sun,tree
+cat,dog,grass,sun,tree
+chicken,duck,grass,sun,tree
+cow,grass,sun,tree
+cow,grass,mountain,sheep,sun,tree
+bee,butterfly,flower,moon,mountain,star,tree
+butterfly,cloud,grass,moon,rabbit,tree
+butterfly,duck,grass,sun,tree
+bird,cloud,grass,rabbit,tree
+bird,cloud,grass,people,sun
+cat,cloud,grass,people,sun
+dog,grass,moon,people,star
+chicken,cloud,grass,people,sun
+cloud,duck,grass,people,sun
+grass,moon,people,sheep,star
+butterfly,flower,grass,moon,people,star,tree
+bee,grass,moon,people,star
+grass,moon,people,rabbit,star
+bird,cat,cloud,grass,people,sun
+bird,dog,grass,moon,tree
+bird,cow,grass,people,sun
+chicken,cloud,cow,grass
+chicken,cloud,duck,grass,people
+cow,fence,grass,people,pig,sun
+cow,grass,people,sheep,sun
+bee,butterfly,flower,grass,moon,people,star
+butterfly,flower,grass,moon,rabbit,star
+bird,cloud,grass,people,rabbit
+grass,moon,road,star,street lamp
+car,cloud,grass,mountain,road,sun
+car,grass,road,street lamp,sun
+bird,car,grass,moon,road,star
+car,chicken,cloud,grass,road,sun
+car,cow,grass,road,sun
+car,cloud,grass,road,sheep,sun
+butterfly,car,cloud,grass,road,sun,tree
+bee,car,flower,grass,moon,road,star
+car,grass,moon,rabbit,road,star
+bird,car,cloud,grass,road,street lamp,tree
+bird,car,dog,grass,moon,road,tree
+bird,car,cow,grass,road,sun
+car,chicken,cloud,cow,grass,road,sun
+car,grass,moon,road,street lamp
+car,chicken,cloud,duck,grass,road
+car,cow,fence,grass,moon,pig,road
+car,cloud,cow,grass,road,sheep
+bee,butterfly,car,flower,grass,road,sun
+butterfly,car,grass,moon,rabbit,road,star
+bird,car,cloud,grass,rabbit,road,tree
+bird,bus,cloud,road,sun,tree
+bus,cat,grass,road,sun,tree
+bus,cloud,dog,grass,road,sun
+bus,cloud,cow,grass,road,sun
+bus,chicken,cloud,grass,road,sun,tree
+bus,grass,moon,people,road,star
+bus,cloud,grass,road,street lamp,sun
+bus,cloud,road  ,people,sun,tree
+bus,grass,moon,rabbit,road,star
+bird,bus,cat,grass,road,sun ,
+bird,bus,dog,grass,moon,road,star
+bird,bus,cloud,cow,grass,road,sun
+bus,chicken,cloud,cow,grass,road,sun
+bus,cat,dog,grass,road,sun ,
+bus,chicken,cloud,duck,grass,road,sun
+bus,cloud,cow,grass,road,sheep
+bee,bus,butterfly,flower,grass,road
+bus,butterfly,grass,mountain,rabbit,road
+bus,butterfly,cloud,dog,flower,grass,road
+bird,bus,grass,moon,rabbit,road,star
+bird,cloud,flower,grass,sun
+cat,cloud,flower,grass,sun,tree
+cloud,dog,flower,grass,sun
+bee,bench,flower,grass,star
+chicken,flower,grass,moon,star
+duck,flower,grass,moon,star
+grass,mountain,people,sheep,tree
+butterfly,cloud,flower,grass,sun
+bee,flower,grass,moon,star
+cloud,flower,grass,rabbit,sun
+bird,cat,flower,grass,moon,tree
+bird,dog,flower,grass,people,sun
+bird,cow,flower,grass,moon
+chicken,cow,flower,grass,sun
+cat,dog,flower,grass,moon,star
+chicken,cloud,duck,flower,grass
+cloud,cow,flower,grass,sheep
+bee,butterfly,cloud,flower,grass
+butterfly,flower,grass,moon,rabbit,star
+bee,butterfly,flower,grass,moon
+bird,flower,grass,moon,rabbit
+bench,bird,cloud,grass,sun,tree
+bench,cat,grass,moon,star
+bench,dog,grass,moon,star
+bench,car,grass,road,sun
+bench,chicken,grass,sun
+bench,butterfly,flower,grass,sun
+bee,bench,cloud,flower,grass,sun
+bench,grass,moon,rabbit,star
+bench,bird,cat,grass,moon,tree
+bench,bird,dog,grass,sun
+bench,bird,cloud,cow,grass
+bench,chicken,cloud,cow,fence,grass
+bench,cat,dog,grass,moon
+chicken,cloud,duck,grass,house,mountain
+bench,bus,grass,road,sun
+bench,cow,grass,mountain,sheep,tree
+bench,bird,grass,rabbit,sun,tree
+bench,butterfly,chicken,grass
+bench,bird,cloud,grass,rabbit
+bird,flower,grass,tree
+cat,cloud,flower,grass,sun,tree
+cloud,dog,flower,grass,tree
+flower,grass,moon,sheep,tree
+butterfly,flower,grass,moon,tree
+bee,cloud,flower,grass,sun,tree
+flower,grass,moon,rabbit,tree
+bird,cat,flower,grass,tree
+bird,dog,flower,grass,moon,tree
+bird,cow,flower,grass,tree
+chicken,cloud,cow,flower,grass,tree
+chicken,duck,grass,tree
+cow,fence,flower,pig,sun,tree
+cow,grass,moon,sheep,star,tree
+butterfly,cloud,duck,flower,grass,tree
+bird,cloud,grass,rabbit,sun,tree
+bird,cloud,grass,people,tree
+cat,cloud,grass,people,sun,tree
+dog,grass,moon,people,tree
+cow,grass,mountain,people,sun,tree
+chicken,grass,people,tree
+duck,grass,people,tree
+grass,people,sheep,tree
+butterfly,grass,moon,people,star,tree
+bee,flower,grass,people,sun,tree
+grass,moon,people,rabbit,tree
+bird,cat,cloud,grass,people,tree
+bird,dog,grass,people,sun,tree
+chicken,cow,grass,people,tree
+chicken,duck,grass,people,tree
+cloud,cow,grass,people,pig,tree
+cow,grass,people,sheep,sun,tree
+bee,butterfly,flower,grass,people,sun,tree
+duck,grass,people,tree
+bird,grass,moon,people,rabbit,star,tree
+bird,flower,grass,moon,people
+cat,flower,grass,moon,people
+dog,flower,grass,moon,people
+chicken,flower,grass,people
+duck,flower,grass,people,sun
+flower,grass,people,sheep
+butterfly,flower,grass,people,sun
+bee,flower,grass,people,sun
+cloud,flower,grass,people,rabbit
+bird,cat,flower,grass,people,sun
+bird,cloud,dog,flower,grass,people,sun
+cat,dog,flower,grass,people,sun
+chicken,duck,flower,grass,people
+cow,flower,grass,people,pig
+cloud,cow,grass,mountain,people,sheep
+bee,butterfly,flower,grass,people
+butterfly,flower,grass,moon,people,rabbit
+butterfly,cloud,duck,flower,grass,people
+bird,flower,grass,people,rabbit,sun
+bird,bus,car,road,sun,tree
+bus,car,cat,road,sun,tree
+bird,bus,car,house,road,sun,tree
+bus,car,house,people,road,sun,tree
+bus,car,dog,house,people,road,tree
+bus,car,house,moon,road,tree
+bus,car,house,moon,road,street lamp,tree
+bird,bus,car,moon,road,street lamp,tree
+bus,car,cloud,people,road,tree
+bird,bus,car,house,moon,road,tree
+bird,bus,car,cloud,dog,road,tree
+bird,bus,car,cloud,road,street lamp,tree
+bird,bus,cow,road,sun,tree
+bird,car,cloud,mountain,road,truck
+car,cloud,mountain,road,truck   ,sun
+car,cloud,cow,grass,mountain,road,truck
+car,chicken,house,mountain,road,tree,truck
+car,grass,mountain,road,sheep,sun,truck
+bird,car,cloud,mountain,road,tree,truck
+bird,car,cow,mountain,road,truck
+cow,grass,mountain,road,sun,tree,truck
+moon,mountain,road,tree,truck
+car,fence,house,mountain,pig,road,truck
+car,cow,grass,mountain,road,sheep,truck
+bee,butterfly,car,mountain,road,tree,truck
+grass,moon,mountain,rabbit,road,star,truck
+butterfly,cloud,mountain,road,sun,truck
+bird,car,cloud,mountain,road,tree,truck
+cloud,cow,grass,mountain,road,sun,truck
+duck,mountain,road,sun,truck
+bus,cloud,fence,house,road,sheep,truck
+bird,mountain,road,sun,tree,truck
+cloud,cow,fence,house,people,pig,truck
+cow,fence,house,people,sheep,truck
+butterfly,moon,mountain,people,tree,truck
+fence,people,pig,tree,truck
+bird,chicken,house,people,sun,truck
+bench,bird,house,moon,people,tree
+bench,cat,cloud,people,sun
+bench,cat,cloud,dog,people,tree
+bench,cloud,mountain,people,sun
+bird,grass,moon,mountain,people,star,tree
+bee,bench,cloud,flower,mountain,people,sun
+bench,bird,cat,house,moon,people
+bench,cat,dog,house,people,road,sun
+bench,bird,car,cloud,road,sun,tree
+bench,car,cat,road,sun,tree
+bench,car,dog,moon,road,tree
+bench,car,chicken,cloud,road,tree
+bench,butterfly,car,road,sun,tree
+bee,bench,car,flower,road,sun,tree
+bench,chicken,duck,grass,road,tree
+bench,cloud,cow,fence,pig,road,tree
+cow,road,sheep,sun,tree
+bee,bench,butterfly,cloud,flower,sun,tree
+bench,butterfly,cloud,duck,flower,sun,tree
+bench,bird,bus,cloud,road,sun,tree
+bench,bus,cat,road,sun,tree
+bench,bus,dog,road,star,tree
+bird,moon,road,star,tree,truck
+cat,moon,road,tree,truck
+dog,road,sun,tree,truck
+cow,fence,moon,road,star,tree,truck
+chicken,moon,road,tree,truck
+cloud,duck,house,road,truck
+fence,moon,road,sheep,tree,truck
+grass,moon,rabbit,road,star,tree,truck
+cat,dog,house,moon,road,tree,truck
+chicken,duck,road,sun,tree,truck
+cow,fence,moon,pig,road,tree,truck
+cloud,cow,fence,road,sheep,tree,truck
+bee,butterfly,grass,road,sun,tree,truck
+bird,fence,grass,moon,star,tree
+cat,fence,flower,moon,star,tree
+cloud,dog,fence,sun,tree
+chicken,duck,fence,sun,tree
+butterfly,fence,moon,star,tree
+bee,cloud,fence,grass,sun,tree
+bird,cat,fence,sun,tree
+bird,dog,fence,moon,star,tree
+cat,dog,fence,grass,sun,tree
+chicken,cloud,duck,fence,tree
+cloud,cow,fence,pig,sun,tree
+cow,fence,sheep,sun ,,tree
+bee,butterfly,fence,flower,sun,tree
+bird,fence,moon,people,star,tree
+cat,cloud,fence,people,sun,tree
+dog,fence,moon,people,star
+butterfly,fence,moon,people,star,tree
+bee,fence,flower moon,people,star
+bird ,flower,cat,fence,moon,people
+bird,cloud,dog,fence,people,tree
+cat,cloud,dog,fence,people,sun,tree
+chicken,duck,fence,people,sun
+cloud,cow,fence,people,pig
+cow,fence,people,sheep,sun
+bird,car,fence,moon,people,road,star
+car,cat,fence,people,road,sun
+car,cloud,dog,fence,people,road
+bird,car,cat,cloud,fence,people,road
+bird,car,dog,fence,people,road,sun
+car,cat,dog,fence,people,road,sun
+car,cloud,cow,fence,people,road
+car,cow,fence,moon,people,road,sheep
+bench,bird,fence,moon,people,star
+bench,cat,cloud,fence,people,sun
+bench,dog,fence,people,sun ,
+bench,butterfly,fence,grass,people,sun
+bee,bench,fence,flower,people,sun
+bench,bird,cat,fence,people,sun
+bench,bird,cloud,dog,fence,people
+bench,car,fence,moon,road,star,street lamp
+bench,car,cat,fence,road,street lamp,sun
+bench,car,cloud,fence,people,road,street lamp
+bench,bird,bus,cloud,fence,house,road
+bench,bus,cat,fence,house,moon,road
+bench,bus,cloud,dog,fence,house,road
+bench,bus,chicken,cloud,fence,house,road
+bird,cloud,grass,sun,tree
+cat,grass,moon,star,tree
+dog,grass,moon,star,tree
+cloud,cow,grass,sun,tree
+chicken ,sun,cloud,grass,tree
+cloud,duck,grass,sun,tree
+cloud,grass,sheep,sun,tree
+butterfly,cloud,grass,sun,tree
+bee,grass,moon,star,tree
+grass,moon,rabbit,star,tree
+bird,cat,grass,moon,tree
+bird,dog,grass,moon,tree
+bird,cow,grass,moon,star,tree
+cat,cloud,dog,grass,tree
+chicken,duck,grass,house,sun,tree
+cow,fence,grass,house,moon,pig,tree
+cow,grass,moon,sheep,tree
+bee,butterfly,flower,grass,sun,tree
+butterfly,cloud,flower,grass,rabbit,tree
+bird,duck,grass,sun,tree
+bird,cloud,grass,rabbit,sun,tree
+bird,grass,moon,people,star
+cat,cloud,grass,people,sun
+dog,grass,moon,people,star
+cloud,cow,grass,people,sun
+grass,moon,people,sheep,star
+bird,car,moon,road,star
+car,cat,cloud,road,sun
+car,cloud,dog,road,sun
+car,cloud,cow,grass,road,sun
+car,chicken,grass,moon,road,star
+car,duck,grass,moon,road,star
+car,cloud,grass,road,sheep,sun
+butterfly,car,cloud,grass,road,sun
+bee,car,cloud,flower,road,sun
+car,cloud,grass,rabbit,road,sun
+bird,grass,people,sun,tree
+cat,grass,moon,people,tree
+dog,grass,moon,people,star,tree
+cloud,cow,grass,people,tree
+chicken,cloud,grass,people,tree
+cloud,duck,grass,people,tree
+cloud,grass,people,sheep,tree
+bird,cat,cloud,grass,people,sun,tree
+bird,cloud,dog,grass,people,sun,tree
+bird,cow,grass,people,sun,tree
+chicken,cloud,cow,grass,people,tree
+cat,dog,grass,people,sun,tree
+chicken,duck,grass,people,sun,tree
+cow,fence,grass,house,moon,pig,tree
+flower,grass,people,rabbit,sun
+bird,cat,cloud,flower,grass,people
+bird,dog,flower,grass,moon,people
+bus,butterfly,car,grass,road,sun
+bus,butterfly,car,grass,rabbit,road,sun
+bird,car,grass,moon,people,road,star
+bird,car,grass,people,rabbit,road,sun
+bus,butterfly,cloud,grass,people,road
+bee,bus,flower,grass,moon,people,road
+bus,grass,moon,people,rabbit,road,star
+bird,bus,cat,grass,moon,people,road
+bird,bus,dog,grass,people,road,sun
+bench,bird,grass,moon,people
+bench,cat,grass,moon,people
+bench,dog,grass,moon,people,star
+bench,bird,cat,cloud,grass,people
+bench,bird,dog,grass,people
+bee,bench,butterfly,grass,people
+bench,butterfly,duck,grass,moon,people
+bird,cloud,road,sun,tree
+cat,cloud,road,sun,tree
+cloud,dog,road,sun,tree
+cloud,cow,road,sun,tree
+chicken,cloud,road,sun,tree
+cloud,duck,road,sun,tree
+cloud,road,sheep,sun,tree
+butterfly,moon,road,star,tree
+bee,flower,moon,road,star,tree
+moon,rabbit,road,star,tree
+bird,cat,road,sun,tree
+bird,cloud,dog,road,tree
+bird,cow,moon,road,star,tree
+chicken,cow,road,sun,tree
+cat,cloud,dog,road,sun,tree
+bird,cloud,people,road,sun,tree
+bird,cloud,road,sun,tree
+cat,cloud,road,sun,tree
+cloud,dog,road,sun,tree
+chicken,cloud,road,sun,tree
+cloud,duck,road,sun,tree
+cloud,road,sheep,sun,tree
+cow,moon,people,road,sheep,star
+butterfly,cloud,people,rabbit,road
+butterfly,duck,moon,people,road,star
+bird,moon,people,rabbit,road
+bird,car,cloud,cow,road,sun
+car,chicken,cloud,cow,road,sun
+car,chicken,cloud,duck,road
+car,cow,moon,pig,road
+car,cow,moon,road,sheep,star
+bus,dog,moon,road,star
+bird,bus,dog,moon,road,star
+bird,flower,moon,road,star
+cat,flower,moon,road,star
+dog,flower,moon,road,star
+chicken,flower,moon,road,star
+butterfly,cloud,flower,road,sun
+cloud,flower,rabbit,road,sun
+bird,cat,flower,moon,road
+bird,dog,flower,moon,road
+bird,flower,grass,moon,rabbit,road,star
+bench,bird,moon,road,star
+bench,cat,moon,road,star
+bench,cloud,dog,road,sun
+bench,chicken,moon,road,star
+bench,cloud,duck,road,sun
+bench,moon,road,sheep,star
+bench,butterfly,cloud,road,sun
+bench,cloud,rabbit,road,sun
+bench,cat,dog,road,sun
+bench,chicken,cloud,duck,grass,road
+bird,cloud,flower,road,sun,tree
+dog,flower,road,sun ,,tree
+chicken,cloud ,,flower,road,tree
+butterfly,flower,moon,road,tree
+bee,cloud,flower,road,sun
+bird,cat,cloud,flower,road,sun
+cat,dog,flower,road,sun ,
+chicken,duck,flower,moon,road,star
+bee,butterfly,cloud,flower,moon,road,tree
+butterfly,flower,moon,rabbit,road,tree
+butterfly,cloud,duck,flower,road,sun,tree
+bird,flower,moon,rabbit,road,tree
+bird,moon,people,road,star,tree
+cloud,dog,people,road,sun,tree
+cow,people,road,sun,tree
+chicken,cloud,people,road,sun,tree
+duck,people,road,sun,tree
+butterfly,cloud,people,road,sun,tree
+bee,cloud,people,road,sun,tree
+moon,people,rabbit,road,star,tree
+bird,cat,moon,people,road,tree
+bird,dog,people,road,sun,tree
+bird,cow,moon,people,road,star,tree
+chicken,cow,moon,people,road,tree
+cat,dog,moon ,,people,road,tree
+chicken,cloud,duck,people,road,sun,tree
+butterfly,cloud,people,rabbit,road,sun,tree
+bird,cloud,people,rabbit,road,tree
+bird,cloud,flower,people,road
+cat,flower,people,road,sun
+cloud,dog,flower,people,road
+chicken,cloud,flower,people,road
+duck,flower,people,road,sun
+butterfly,cloud,flower,people,road,sun
+bee,cloud,flower,people,road
+flower,moon,people,rabbit,road,star
+bird,cat,cloud,flower,people,road,sun
+bird,dog,flower,moon,people,road
+bird,cow,flower,moon,people,road
+cat,dog,flower,moon,people,road
+chicken,duck,flower,moon,people,road,star
+bee,butterfly,flower,moon,people,road
+butterfly,flower,moon,people,rabbit,road
+bird,flower,moon,people,rabbit,road,star
+bird,bus,car,cloud,road,sun
+bus,car,cat,moon,road,star
+bus,car,dog,road,sun
+bus,butterfly,car,cloud,road,sun
+bee,bus,car,cloud,road
+bird,bus,car,cat,cloud,road
+bird,bus,car,cloud,dog,road,sun
+bus,car,cat,dog,moon,road,star
+bus,car,chicken,cloud,duck,road,sun
+bird,car,road,sun,truck
+car,cat,moon,road,truck
+car,dog,road,sun,truck
+car,cloud,cow,road,truck
+car,cloud,road,sheep,sun,truck
+bird,car,cat,cloud,road,sun,truck
+bird,car,cloud,dog,road,sun,truck
+car,cat,cloud,dog,road,sun,truck
+car,chicken,duck,road,sun,truck
+bird,bus,cloud,road,truck
+bus,cat,moon,road,truck
+bus,dog,moon,road,truck
+bird,bus,cat,cloud,road,sun,truck
+bird,bus,dog,road,sun,truck
+bus,cat,cloud,dog,road,truck
+bird,car,moon,people,road,star
+car,cat,cloud,people,road,sun
+car,dog,moon ,,people,road
+bench,bird,moon,people,road
+bench,cat,moon,people,road,star
+bench,cloud,dog,people,road,sun
+bench,chicken,moon,people,road
+bench,duck,people,road,sun
+bench,butterfly,people,road,sun
+bench,bird,cat,moon,people,road,star
+bench,bird,cloud,dog,people,road,sun
+bench,cat,dog,moon,people,road,star
+bench,chicken,duck,people,road,sun
+bench,bird,car,road,sun
+bench,car,cat,road,sun
+bench,car,cloud,dog,road
+bench,bird,car,cat,moon,road,star
+bench,car,cat,dog,moon,road,star
+bench,car,chicken,duck,road,sun
+bench,bird,bus,moon,road,star
+bench,bus,dog,moon,road
+bench,bird,bus,cat,road,sun
+bench,bird,bus,dog,moon,road
+bench,bus,cat,cloud,dog,road
+bench,bus,chicken,duck,moon,road
+bench,bird,moon,road,star,truck
+bench,bird,cloud,flower,road,sun
+bench,cat,cloud,flower,road
+bench,dog,flower,moon,road
+bench,bird,cat,cloud,flower,road
+bench,bird,dog,flower,moon,road
+bench,bird,cloud,cow,flower,road
+bench,cat,dog,flower,road,sun
+bee,bench,butterfly,flower,moon,road
+fence,grass,people
+fence,grass,tree
+bird,cloud,fence,grass,sun,tree
+cat,fence,grass,sun ,,tree
+dog,fence,grass,moon ,,tree
+cloud ,,cow,fence,grass,tree
+chicken,fence,grass,moon ,,tree
+cloud ,,duck,fence,grass,tree
+fence,grass,moon ,,sheep,tree
+butterfly,fence,grass,sun ,,tree
+bee,cloud ,,fence,grass,tree
+fence,grass,rabbit,sun ,,tree
+bird,fence,grass,moon ,,tree
+bird,fence,grass,moon,people,star
+cat,fence,grass,moon,people,star
+cloud ,,dog,fence,grass,people
+cow,fence,grass,moon ,,people
+chicken,cloud ,,fence,grass,people
+cloud,duck,fence,grass,people,sun
+cloud,fence,grass,people,sheep,sun
+butterfly,cloud ,,fence,grass,people
+bee,fence,grass,moon,people,star
+fence,grass,moon ,,people,rabbit
+bird,fence,grass,people,sun ,
+bird,car,cloud,fence,grass,sun
+car,cat,fence,grass,moon ,
+car,dog,fence,grass,sun ,
+car,cloud ,,cow,fence,grass
+car,chicken,fence,grass,moon,star
+car,cloud,duck,fence,grass,sun
+car,cloud ,,fence,grass,sheep
+butterfly,car,cloud,fence,grass,sun
+bee,car,fence,grass,sun ,
+car,cloud,fence,grass,rabbit,sun
+bird,bus,cloud ,,fence,grass
+bus,cat,fence,grass,moon ,
+bus,dog,fence,grass,moon,star
+bus,cloud ,,cow,fence,grass
+bus,chicken,cloud ,,fence,grass
+bus,duck,fence,grass,sun ,
+bus,cloud ,,fence,grass,sheep
+bus,butterfly,fence,grass,moon ,
+bee,bus,cloud ,,fence,grass
+bus,cloud ,,fence,grass,rabbit
+bird,fence,flower,grass,moon ,
+cat,cloud ,,fence,flower,grass
+dog,fence,flower,grass,moon,star
+cow,fence,flower,grass,sun ,
+chicken,cloud,fence,flower,grass,sun
+cloud ,,duck,fence,flower,grass
+fence,flower,grass,moon ,,sheep
+butterfly,fence,flower,grass,moon,star
+bee,fence,flower,grass,moon,star
+fence,flower,grass,moon,rabbit,star
+bench,bird,fence,grass,moon ,
+bench,cat,fence,grass,moon ,
+bench,cloud,dog,fence,grass,sun
+bench,cow,fence,grass,sun ,
+bench,chicken,fence,grass,moon,star
+bench,cloud,duck,fence,grass,sun
+bench,fence,grass,moon ,,sheep
+bench,butterfly,fence,grass,sun ,
+bee,bench,fence,grass,sun ,
+bench,fence,grass,moon,rabbit,star
+bird,fence,flower,grass,sun ,,tree
+cat,fence,flower,grass,sun ,,tree
+dog,fence,flower,grass,moon,star,tree
+cow,fence,flower,grass,moon,star,tree
+chicken,cloud ,,fence,flower,grass,tree
+cloud,duck,fence,flower,grass,sun,tree
+fence,flower,grass,moon ,,sheep,tree
+butterfly,fence,flower,grass,moon ,,tree
+bee,fence,flower,grass,moon ,,tree
+fence,flower,grass,rabbit,sun ,,tree
+bird,cloud ,,fence,grass,people,tree
+cat,fence,grass,moon,people,star,tree
+dog,fence,grass,moon,people,star,tree
+cow,fence,grass,people,sun ,,tree
+chicken,fence,grass,moon ,,people,tree
+cloud ,,duck,fence,grass,people,tree
+fence,grass,moon ,,people,sheep,tree
+butterfly,fence,grass,moon ,,people,tree
+bee,fence,grass,people,sun ,,tree
+cloud,fence,grass,people,rabbit,sun,tree
+bird,fence,flower,grass,moon ,,people
+cat,cloud,fence,flower,grass,people,sun
+cloud ,,dog,fence,flower,grass,people
+cloud,cow,fence,flower,grass,people,sun
+chicken,fence,flower,grass,moon,people,star
+cloud,duck,fence,flower,grass,people,sun
+fence,flower,grass,people,sheep,sun ,
+butterfly,fence,flower,grass,moon ,,people
+bee,cloud,fence,flower,grass,people,sun
+cloud,fence,flower,grass,people,rabbit,sun
+car,fence,grass,truck
+bus,fence,grass,truck
+bus,car,fence,grass
+bird,bus,car,fence,grass,moon ,
+bus,car,cat,fence,grass,moon,star
+bus,car,dog,fence,grass,moon ,
+bird,car,cloud ,,fence,grass,people
+car,cat,cloud ,,fence,grass,people
+car,cloud,dog,fence,grass,people,sun
+car,cloud ,,cow,fence,grass,people
+car,chicken,fence,grass,moon,people,star
+car,duck,fence,grass,moon ,,people
+car,cloud,fence,grass,people,sheep,sun
+butterfly,car,cloud ,,fence,grass,people
+bee,car,cloud,fence,grass,people,sun
+car,cloud ,,fence,grass,people,rabbit
+bird,bus,fence,grass,moon,people,star
+bus,cat,cloud ,,fence,grass,people
+bus,dog,fence,grass,moon ,,people
+bus,cloud ,,cow,fence,grass,people
+bus,chicken,fence,grass,moon,people,star
+bus,duck,fence,grass,moon,people,star
+bus,fence,grass,moon ,,people,sheep
+bus,butterfly,fence,grass,people,sun ,
+bee,bus,fence,grass,moon,people,star
+bus,fence,grass,moon ,,people,rabbit
+bench,bird,cloud,fence,grass,people,sun
+bench,cat,fence,grass,moon,people,star
+bench,dog,fence,grass,people,sun ,
+bench,cow,fence,grass,moon ,,people
+bench,chicken,fence,grass,moon ,,people
+bench,duck,fence,grass,moon,people,star
+bench,cloud ,,fence,grass,people,sheep
+bench,butterfly,fence,grass,people,sun ,
+bee,bench,fence,grass,moon ,,people
+bench,fence,grass,moon ,,people,rabbit
+bench,bird,car,cloud,fence,grass,sun
+bench,car,cat,fence,grass,sun ,
+bench,car,dog,fence,grass,moon ,
+bench,car,cloud,cow,fence,grass,sun
+bench,car,chicken,cloud,fence,grass,sun
+bench,car,duck,fence,grass,moon,star
+bench,car,fence,grass,sheep,sun ,
+bench,butterfly,car,fence,grass,moon,star
+bee,bench,car,fence,grass,moon,star
+bench,car,fence,grass,moon,rabbit,star
+bench,bird,cloud,fence,flower,grass,sun
+bench,cat,fence,flower,grass,moon,star
+bench,cloud,dog,fence,flower,grass,sun
+bench,cloud,cow,fence,flower,grass,sun
+bench,chicken,fence,flower,grass,sun ,
+bench,duck,fence,flower,grass,moon,star
+bench,cloud,fence,flower,grass,sheep,sun
+bench,butterfly,fence,flower,grass,sun ,
+bee,bench,cloud,fence,flower,grass,sun
+bench,cloud ,,fence,flower,grass,rabbit
+fence,grass,people
+bird,cloud,mountain,road,sun,tree
+cat,cloud ,,mountain,road,tree
+dog,mountain,road,sun ,,tree
+cloud ,,cow,mountain,road,tree
+chicken,moon ,,mountain,road,tree
+cloud,duck,mountain,road,sun,tree
+cloud ,,mountain,road,sheep,tree
+butterfly,moon,mountain,road,star,tree
+bee,moon ,,mountain,road,tree
+moon ,,mountain,rabbit,road,tree
+bird,moon,mountain,people,road,star
+cat,mountain,people,road,sun ,
+cloud ,,dog,mountain,people,road
+cow,mountain,people,road,sun ,
+chicken,cloud ,,mountain,people,road
+duck,moon,mountain,people,road,star
+cloud,mountain,people,road,sheep,sun
+butterfly,mountain,people,road,sun ,
+bee,mountain,people,road,sun ,
+moon ,,mountain,people,rabbit,road
+bird,car,mountain,road,sun ,
+car,cat,moon,mountain,road,star
+car,cloud ,,dog,mountain,road
+car,cow,moon,mountain,road,star
+car,chicken,moon,mountain,road,star
+car,cloud,duck,mountain,road,sun
+car,moon ,,mountain,road,sheep
+butterfly,car,cloud,mountain,road,sun
+bee,car,moon ,,mountain,road
+car,moon,mountain,rabbit,road,star
+bird,bus,cloud,mountain,road,sun
+bus,cat,moon ,,mountain,road
+bus,dog,mountain,road,sun ,
+bus,cloud,cow,mountain,road,sun
+bus,chicken,cloud,mountain,road,sun
+bus,duck,mountain,road,sun ,
+bus,cloud ,,mountain,road,sheep
+bus,butterfly,moon ,,mountain,road
+bee,bus,moon ,,mountain,road
+bus,moon ,,mountain,rabbit,road
+bird,flower,moon ,,mountain,road
+cat,cloud ,,flower,mountain,road
+dog,flower,moon ,,mountain,road
+cow,flower,moon ,,mountain,road
+chicken,cloud ,,flower,mountain,road
+cloud,duck,flower,mountain,road,sun
+flower,mountain,road,sheep,sun ,
+butterfly,flower,moon,mountain,road,star
+bee,cloud,flower,mountain,road,sun
+cloud ,,flower,mountain,rabbit,road
+bench,bird,mountain,road,sun ,
+bench,cat,moon ,,mountain,road
+bench,cloud,dog,mountain,road,sun
+bench,cow,moon ,,mountain,road
+bench,chicken,cloud ,,mountain,road
+bench,cloud,duck,mountain,road,sun
+bench,moon,mountain,road,sheep,star
+bench,butterfly,cloud,mountain,road,sun
+bee,bench,moon,mountain,road,star
+bench,cloud ,,mountain,rabbit,road
+bird,flower,moon ,,mountain,road,tree
+cat,cloud,flower,mountain,road,sun,tree
+dog,flower,moon,mountain,road,star,tree
+cow,flower,moon ,,mountain,road,tree
+chicken,flower,moon ,,mountain,road,tree
+cloud,duck,flower,mountain,road,sun,tree
+cloud ,,flower,mountain,road,sheep,tree
+butterfly,flower,moon,mountain,road,star,tree
+bee,flower,mountain,road,sun ,,tree
+cloud,flower,mountain,rabbit,road,sun,tree
+bird,moon ,,mountain,people,road,tree
+cat,mountain,people,road,sun ,,tree
+cloud ,,dog,mountain,people,road,tree
+cloud ,,cow,mountain,people,road,tree
+chicken,cloud,mountain,people,road,sun,tree
+cloud ,,duck,mountain,people,road,tree
+cloud,mountain,people,road,sheep,sun,tree
+butterfly,moon ,,mountain,people,road,tree
+bee,moon,mountain,people,road,star,tree
+moon ,,mountain,people,rabbit,road,tree
+bird,flower,moon ,,mountain,people,road
+cat,flower,moon ,,mountain,people,road
+dog,flower,mountain,people,road,sun ,
+cow,flower,mountain,people,road,sun ,
+chicken,cloud,flower,mountain,people,road,sun
+cloud ,,duck,flower,mountain,people,road
+flower,moon ,,mountain,people,road,sheep
+butterfly,flower,mountain,people,road,sun ,
+bee,flower,moon,mountain,people,road,star
+flower,mountain,people,rabbit,road,sun ,
+bird,bus,car,cloud,mountain,road,sun
+bus,car,cat,cloud,mountain,road,sun
+bus,car,dog,moon ,,mountain,road
+bus,car,cloud ,,cow,mountain,road
+bus,car,chicken,moon ,,mountain,road
+bus,car,cloud,duck,mountain,road,sun
+bus,car,moon,mountain,road,sheep,star
+bus,butterfly,car,cloud,mountain,road,sun
+bee,bus,car,cloud,mountain,road,sun
+bus,car,cloud ,,mountain,rabbit,road
+bird,car,cloud,mountain,road,sun,truck
+car,cat,cloud ,,mountain,road,truck
+car,dog,mountain,road,sun ,,truck
+car,cow,mountain,road,sun ,,truck
+car,chicken,moon,mountain,road,star,truck
+car,duck,moon ,,mountain,road,truck
+car,cloud,mountain,road,sheep,sun,truck
+butterfly,car,moon ,,mountain,road,truck
+bee,car,cloud ,,mountain,road,truck
+car,cloud ,,mountain,rabbit,road,truck
+bird,bus,cloud ,,mountain,road,truck
+bus,cat,cloud ,,mountain,road,truck
+bus,dog,moon ,,mountain,road,truck
+bus,cow,mountain,road,sun ,,truck
+bus,chicken,cloud,mountain,road,sun,truck
+bus,duck,mountain,road,sun ,,truck
+bus,moon ,,mountain,road,sheep,truck
+bus,butterfly,moon ,,mountain,road,truck
+bee,bus,cloud,mountain,road,sun,truck
+bus,cloud ,,mountain,rabbit,road,truck
+bird,car,cloud ,,mountain,people,road
+car,cat,cloud,mountain,people,road,sun
+car,dog,moon ,,mountain,people,road
+car,cow,moon,mountain,people,road,star
+car,chicken,mountain,people,road,sun ,
+car,cloud ,,duck,mountain,people,road
+car,cloud ,,mountain,people,road,sheep
+butterfly,car,cloud ,,mountain,people,road
+bee,car,mountain,people,road,sun ,
+car,cloud,mountain,people,rabbit,road,sun
+bird,bus,cloud ,,mountain,people,road
+bus,cat,cloud,mountain,people,road,sun
+bus,dog,moon,mountain,people,road,star
+bus,cow,moon ,,mountain,people,road
+bus,chicken,cloud,mountain,people,road,sun
+bus,cloud ,,duck,mountain,people,road
+bus,moon ,,mountain,people,road,sheep
+bus,butterfly,mountain,people,road,sun ,
+bee,bus,cloud,mountain,people,road,sun
+bus,moon ,,mountain,people,rabbit,road
+bench,bird,moon ,,mountain,people,road
+bench,cat,cloud,mountain,people,road,sun
+bench,dog,moon,mountain,people,road,star
+bench,cow,moon,mountain,people,road,star
+bench,chicken,moon,mountain,people,road,star
+bench,duck,moon,mountain,people,road,star
+bench,moon,mountain,people,road,sheep,star
+bench,butterfly,cloud,mountain,people,road,sun
+bee,bench,cloud ,,mountain,people,road
+bench,cloud,mountain,people,rabbit,road,sun
+bench,bird,car,cloud ,,mountain,road
+bench,car,cat,cloud,mountain,road,sun
+bench,car,cloud,dog,mountain,road,sun
+bench,car,cloud ,,cow,mountain,road
+bench,car,chicken,mountain,road,sun ,
+bench,car,duck,moon,mountain,road,star
+bench,car,moon,mountain,road,sheep,star
+bench,butterfly,car,cloud ,,mountain,road
+bee,bench,car,cloud ,,mountain,road
+bench,car,cloud,mountain,rabbit,road,sun
+bench,bird,bus,moon ,,mountain,road
+bench,bus,cat,moon ,,mountain,road
+bench,bus,cloud,dog,mountain,road,sun
+bench,bus,cloud,cow,mountain,road,sun
+bench,bus,chicken,moon,mountain,road,star
+bench,bus,duck,moon ,,mountain,road
+bench,bus,moon ,,mountain,road,sheep
+bench,bus,butterfly,cloud,mountain,road,sun
+bee,bench,bus,moon,mountain,road,star
+bench,bus,cloud ,,mountain,rabbit,road
+bench,bird,flower,moon ,,mountain,road
+bench,cat,flower,moon,mountain,road,star
+bench,dog,flower,moon ,,mountain,road
+bench,cow,flower,moon,mountain,road,star
+bench,chicken,cloud,flower,mountain,road,sun
+bench,cloud,duck,flower,mountain,road,sun
+bench,cloud,flower,mountain,road,sheep,sun
+bench,butterfly,cloud ,,flower,mountain,road
+bee,bench,cloud,flower,mountain,road,sun
+bench,flower,mountain,rabbit,road,sun ,
+bird,cloud ,,house,road,tree
+cat,house,road,sun ,,tree
+dog,house,moon,road,star,tree
+cow,house,road,sun ,,tree
+chicken,house,moon ,,road,tree
+cloud ,,duck,house,road,tree
+cloud ,,house,road,sheep,tree
+butterfly,cloud,house,road,sun,tree
+bee,house,road,sun ,,tree
+cloud,house,rabbit,road,sun,tree
+bird,house,moon ,,people,road
+cat,house,people,road,sun ,
+cloud,dog,house,people,road,sun
+cow,house,moon ,,people,road
+chicken,cloud ,,house,people,road
+duck,house,people,road,sun ,
+house,moon ,,people,road,sheep
+butterfly,cloud,house,people,road,sun
+bee,cloud,house,people,road,sun
+house,moon ,,people,rabbit,road
+bird,car,house,moon,road,star
+car,cat,cloud,house,road,sun
+car,dog,house,moon,road,star
+car,cow,house,road,sun ,
+car,chicken,house,moon ,,road
+car,cloud,duck,house,road,sun
+car,cloud ,,house,road,sheep
+butterfly,car,house,moon,road,star
+bee,car,house,moon ,,road
+car,house,moon ,,rabbit,road
+bird,bus,house,moon,road,star
+bus,cat,cloud,house,road,sun
+bus,dog,house,moon ,,road
+bus,cloud,cow,house,road,sun
+bus,chicken,house,moon ,,road
+bus,cloud ,,duck,house,road
+bus,house,moon,road,sheep,star
+bus,butterfly,house,moon,road,star
+bee,bus,house,moon ,,road
+bus,house,moon,rabbit,road,star
+bird,flower,house,road,sun ,
+cat,cloud ,,flower,house,road
+dog,flower,house,road,sun ,
+cow,flower,house,moon,road,star
+chicken,flower,house,road,sun ,
+cloud,duck,flower,house,road,sun
+cloud,flower,house,road,sheep,sun
+butterfly,flower,house,moon,road,star
+bee,flower,house,moon ,,road
+cloud,flower,house,rabbit,road,sun
+bench,bird,cloud,house,road,sun
+bench,cat,cloud,house,road,sun
+bench,dog,house,moon,road,star
+bench,cow,house,road,sun ,
+bench,chicken,house,moon,road,star
+bench,duck,house,moon,road,star
+bench,house,moon,road,sheep,star
+bench,butterfly,cloud,house,road,sun
+bee,bench,house,moon,road,star
+bench,cloud ,,house,rabbit,road
+bird,flower,house,moon,road,star,tree
+cat,cloud,flower,house,road,sun,tree
+cloud ,,dog,flower,house,road,tree
+cloud ,,cow,flower,house,road,tree
+chicken,flower,house,moon,road,star,tree
+cloud ,,duck,flower,house,road,tree
+cloud ,,flower,house,road,sheep,tree
+butterfly,cloud ,,flower,house,road,tree
+bee,cloud ,,flower,house,road,tree
+cloud,flower,house,rabbit,road,sun,tree
+bird,house,moon ,,people,road,tree
+cat,cloud ,,house,people,road,tree
+dog,house,moon,people,road,star,tree
+cow,house,moon,people,road,star,tree
+chicken,cloud ,,house,people,road,tree
+cloud,duck,house,people,road,sun,tree
+house,people,road,sheep,sun ,,tree
+butterfly,house,moon,people,road,star,tree
+bee,cloud,house,people,road,sun,tree
+cloud,house,people,rabbit,road,sun,tree
+bird,flower,house,moon ,,people,road
+cat,flower,house,moon ,,people,road
+cloud ,,dog,flower,house,people,road
+cloud,cow,flower,house,people,road,sun
+chicken,cloud ,,flower,house,people,road
+duck,flower,house,people,road,sun ,
+flower,house,moon,people,road,sheep,star
+butterfly,flower,house,people,road,sun ,
+bee,flower,house,people,road,sun ,
+flower,house,moon ,,people,rabbit,road
+bird,bus,car,house,moon ,,road
+bus,car,cat,house,road,sun ,
+bus,car,dog,house,moon,road,star
+bus,car,cloud,cow,house,road,sun
+bus,car,chicken,house,moon,road,star
+bus,car,duck,house,moon,road,star
+bus,car,house,moon ,,road,sheep
+bus,butterfly,car,house,road,sun ,
+bee,bus,car,house,moon ,,road
+bus,car,cloud,house,rabbit,road,sun
+bird,car,house,road,sun ,,truck
+car,cat,house,moon,road,star,truck
+car,dog,house,moon,road,star,truck
+car,cloud,cow,house,road,sun,truck
+car,chicken,house,moon,road,star,truck
+car,cloud,duck,house,road,sun,truck
+car,house,road,sheep,sun ,,truck
+butterfly,car,house,road,sun ,,truck
+bee,car,house,moon ,,road,truck
+car,cloud ,,house,rabbit,road,truck
+bird,bus,house,moon ,,road,truck
+bus,cat,house,moon,road,star,truck
+bus,dog,house,moon ,,road,truck
+bus,cloud ,,cow,house,road,truck
+bus,chicken,house,road,sun ,,truck
+bus,cloud,duck,house,road,sun,truck
+bus,house,moon,road,sheep,star,truck
+bus,butterfly,house,road,sun ,,truck
+bee,bus,house,moon,road,star,truck
+bus,cloud,house,rabbit,road,sun,truck
+bird,car,cloud ,,house,people,road
+car,cat,cloud,house,people,road,sun
+car,cloud ,,dog,house,people,road
+car,cow,house,moon ,,people,road
+car,chicken,house,people,road,sun ,
+car,cloud,duck,house,people,road,sun
+car,cloud,house,people,road,sheep,sun
+butterfly,car,cloud ,,house,people,road
+bee,car,house,moon ,,people,road
+car,house,people,rabbit,road,sun ,
+bird,bus,house,moon ,,people,road
+bus,cat,cloud ,,house,people,road
+bus,dog,house,people,road,sun ,
+bus,cloud,cow,house,people,road,sun
+bus,chicken,cloud ,,house,people,road
+bus,duck,house,moon ,,people,road
+bus,house,moon,people,road,sheep,star
+bus,butterfly,cloud,house,people,road,sun
+bee,bus,cloud,house,people,road,sun
+bus,house,moon ,,people,rabbit,road
+bench,bird,cloud,house,people,road,sun
+bench,cat,house,moon,people,road,star
+bench,dog,house,moon,people,road,star
+bench,cow,house,moon ,,people,road
+bench,chicken,house,people,road,sun ,
+bench,cloud,duck,house,people,road,sun
+bench,cloud,house,people,road,sheep,sun
+bench,butterfly,house,moon,people,road,star
+bee,bench,house,people,road,sun ,
+bench,house,moon ,,people,rabbit,road
+bench,bird,car,house,road,sun ,
+bench,car,cat,house,moon ,,road
+bench,car,cloud ,,dog,house,road
+bench,car,cow,house,moon,road,star
+bench,car,chicken,cloud,house,road,sun
+bench,car,duck,house,moon ,,road
+bench,car,house,road,sheep,sun ,
+bench,butterfly,car,house,moon ,,road
+bee,bench,car,cloud,house,road,sun
+bench,car,cloud,house,rabbit,road,sun
+bench,bird,bus,cloud,house,road,sun
+bench,bus,cat,house,moon,road,star
+bench,bus,cloud,dog,house,road,sun
+bench,bus,cow,house,road,sun ,
+bench,bus,chicken,cloud ,,house,road
+bench,bus,duck,house,moon,road,star
+bench,bus,house,moon ,,road,sheep
+bench,bus,butterfly,house,moon,road,star
+bee,bench,bus,house,road,sun ,
+bench,bus,cloud ,,house,rabbit,road
+bench,bird,house,road,sun ,,truck
+bench,cat,cloud ,,house,road,truck
+bench,cloud,dog,house,road,sun,truck
+bench,cow,house,moon ,,road,truck
+bench,chicken,cloud,house,road,sun,truck
+bench,cloud ,,duck,house,road,truck
+bench,cloud,house,road,sheep,sun,truck
+bench,butterfly,house,moon,road,star,truck
+bee,bench,house,moon ,,road,truck
+bench,house,moon,rabbit,road,star,truck
+bench,bird,flower,house,road,sun ,
+bench,cat,flower,house,moon,road,star
+bench,dog,flower,house,road,sun ,
+bench,cow,flower,house,moon,road,star
+bench,chicken,flower,house,moon ,,road
+bench,cloud ,,duck,flower,house,road
+bench,flower,house,road,sheep,sun ,
+bench,butterfly,flower,house,road,sun ,
+bee,bench,flower,house,road,sun ,
+bench,flower,house,moon,rabbit,road,star
+bird,grass,moon,road,star,tree
+cat,cloud,grass,road,sun,tree
+cloud,dog,grass,road,tree
+cow,grass,moon,road,star,tree
+chicken,grass,moon,road,star,tree
+duck,grass,road,sun,tree
+grass,moon,road,sheep,star,tree
+butterfly,cloud,grass,road,tree
+cloud,grass,rabbit,road,sun,tree
+bird,cat,grass,moon,road,star,tree
+bird,cloud,dog,grass,road,tree
+bird,cow,grass,road,sun,tree
+chicken,cloud,cow,grass,road,tree
+cloud,cow,grass,pig,road,sun,tree
+cow,grass,moon,road,sheep,tree
+butterfly,cloud,grass,rabbit,road,tree
+butterfly,cloud,duck,grass,road,tree
+bird,cloud,grass,rabbit,road,tree
+bird,cloud,grass,people,road,sun
+cat,cloud,grass,people,road
+chicken,grass,people,road,sun
+cloud,duck,grass,people,road
+grass,people,rabbit,road,sun
+bird,cat,grass,moon,people,road
+bird,dog,grass,people,road,sun
+bird,cow,grass,people,road,sun
+chicken,cow,grass,moon,people,road,star
+cat,dog,grass,moon,people,road,star
+chicken,duck,grass,moon,people,road,star
+cloud,cow,grass,people,pig,road,sun
+cloud,cow,grass,people,road,sheep,sun
+bird,grass,moon,people,rabbit,road,star
+bird,car,cloud,grass,road,sun
+car,cloud,cow,grass,road
+car,chicken,cloud,grass,road
+car,duck,grass,moon,road,star
+car,cloud,grass,road,sheep,sun
+car,grass,rabbit,road,sun
+bird,car,cat,grass,moon,road,star
+bird,car,cloud,dog,grass,road,sun
+bird,car,cow,grass,moon,road,star
+car,chicken,cow,grass,moon,road,star
+car,cat,dog,grass,moon,road
+car,chicken,duck,grass,road,sun
+car,cow,grass,moon,pig,road,star
+car,cloud,cow,grass,road,sheep
+butterfly,car,grass,moon,rabbit,road,star
+butterfly,car,duck,grass,moon,road
+bird,car,cloud,grass,rabbit,road,sun
+bird,bus,grass,road,sun
+bus,cat,cloud,grass,road,sun
+bus,cloud,dog,grass,road
+bus,cloud,cow,grass,road,sun
+bus,chicken,grass,moon,road,star
+bus,duck,grass,moon,road
+bus,butterfly,grass,road,sun
+bee,bus,grass,road,sun
+bus,grass,moon,rabbit,road,star
+bird,bus,cat,grass,moon,road
+bird,bus,cow,grass,moon,road
+bus,chicken,cow,grass,road,sun
+bus,cat,dog,grass,moon ,,road
+bus,chicken,cloud,duck,grass,road
+bus,cow,grass,moon,road,sheep
+bird,bus,grass,moon,rabbit,road
+duck,flower,grass,road,sun
+flower,grass,road,sheep,sun
+butterfly,flower,grass,moon,road
+bee,flower,grass,moon,road,star
+flower,grass,moon,rabbit,road
+bird,cat,cloud,flower,grass,road,sun
+bird,cloud,dog,flower,grass,road,sun
+bird,cow,flower,grass,moon,road,star
+chicken,cloud,cow,flower,grass,road,sun
+chicken,cloud,duck,flower,grass,road
+cloud,cow,flower,grass,pig,road
+cow,flower,grass,road,sheep,sun
+bee,butterfly,flower,grass,moon,road
+bird,flower,grass,moon,rabbit,road
+bench,cat,cloud,grass,road
+bench,cloud,dog,grass,road,sun
+bench,cow,grass,moon,road
+bench,chicken,cloud,grass,road,sun
+bench,grass,moon ,,road,sheep
+bench,butterfly,grass,road,sun
+bee,bench,cloud,grass,road,sun
+bench,cloud,grass,rabbit,road
+bench,bird,cat,grass,road,sun
+bench,bird,cloud,cow,grass,road,sun
+bench,chicken,cow,grass,moon,road,star
+bench,cat,cloud ,,dog,grass,road
+bench,chicken,cloud,duck,grass,road,sun
+bench,cow,grass,moon,pig,road,star
+bench,bird,cloud,grass,rabbit,road,sun
+bird,flower,grass,moon,road,star,tree
+chicken,cloud,flower,grass,road,tree
+flower,grass,moon,road,sheep,tree
+butterfly,cloud,flower,grass,road,sun,tree
+bee,flower,grass,road,sun,tree
+cloud,flower,grass,rabbit,road,sun,tree
+bird,cat,flower,grass,road,sun,tree
+bird,cow,flower,grass,road,sun,tree
+chicken,cloud,cow,flower,grass,road,tree
+chicken,cloud,duck,flower,grass,road,tree
+cow,flower,grass,pig,road,sun,tree
+cloud,cow,flower,grass,road,sheep,tree
+bee,butterfly,flower,grass,road,sun,tree
+butterfly,cloud,flower,grass,rabbit,road,tree
+butterfly,duck,flower,grass,road,sun,tree
+bird,flower,grass,rabbit,road,sun,tree
+bird,grass,moon,people,road,star,tree
+cat,grass,moon,people,road,tree
+cloud,dog,grass,people,road,sun,tree
+cow,grass,moon,people,road,star,tree
+chicken,cloud,grass,people,road,sun,tree
+cloud,duck,grass,people,road,sun,tree
+grass,moon,people,road,sheep,star,tree
+bee,grass,moon,people,road,tree
+grass,moon,people,rabbit,road,tree
+bird,cat,cloud,grass,people,road,tree
+bird,dog,grass,people,road,sun,tree
+bird,cloud,cow,grass,people,road,tree
+cat,cloud,dog,grass,people,road,tree
+chicken,cloud,duck,grass,people,road,tree
+cow,grass,people,pig,road,sun,tree
+cloud,cow,grass,people,road,sheep,tree
+bird,grass,people,rabbit,road,sun,tree
+bird,cloud,flower,grass,people,road,sun
+cat,cloud,flower,grass,people,road,sun
+cloud,dog,flower,grass,people,road,sun
+cow,flower,grass,moon,people,road
+chicken,cloud,flower,grass,people,road
+duck,flower,grass,moon,people,road,star
+bird,dog,flower,grass,people,road,sun
+bird,cloud,cow,flower,grass,people,road
+chicken,cloud,cow,flower,grass,people,road
+cat,cloud ,,dog,flower,grass,people,road
+chicken,duck,flower,grass,people,road,sun
+cow,flower,grass,people,pig,road,sun
+cow,flower,grass,people,road,sheep,sun
+bee,butterfly,cloud,flower,grass,people,road
+bird,bus,car,cloud,grass,road,sun
+bus,car,cow,grass,moon,road
+bus,car,chicken,cloud,grass,road,sun
+bus,car,cloud,duck,grass,road,sun
+bus,car,cloud,grass,road,sheep,sun
+bus,car,cloud,grass,rabbit,road
+bird,bus,car,cow,grass,road,sun
+butterfly,car,grass,rabbit,road,sun,truck
+butterfly,car,duck,grass,road,sun,truck
+bird,bus,cloud,grass,road,sun,truck
+bus,cloud,cow,grass,road,sun,truck
+bus,grass,moon,road,sheep,star,truck
+bus,cloud,grass,rabbit,road,truck
+bus,chicken,cloud,cow,grass,road,truck
+bird,car,grass,people,road,sun
+car,cat,grass,moon,people,road
+car,cloud,dog,grass,people,road,sun
+car,cow,grass,moon,people,road
+car,chicken,grass,people,road,sun
+car,duck,grass,moon,people,road
+car,grass,moon,people,road,sheep
+bus,cat,grass,people,road,sun
+bus,dog,grass,moon,people,road,star
+bus,cloud,cow,grass,people,road
+bus,chicken,cloud,grass,people,road
+bus,duck,grass,people,road,sun
+bus,grass,moon,people,road,sheep
+bee,bus,grass,moon,people,road,star
+bus,grass,moon ,,people,rabbit,road
+bird,bus,cat,cloud,grass,people,road
+bird,bus,dog,grass,people,road,sun
+bird,bus,cloud,cow,grass,people,road
+bus,chicken,cow,grass,people,road,sun
+bus,cat,dog,grass,people,road,sun
+bus,chicken,cloud,duck,grass,people,road
+bus,cow,grass,people,pig,road,sun
+bus,cow,grass,people,road,sheep,sun
+bench,bird,cloud,grass,people,road
+bench,butterfly,grass,people,road,sun
+bee,bench,cloud,grass,people,road,sun
+bench,bird,cat,cloud,grass,people,road
+bee,bench,butterfly,grass,people,road,sun
+bench,bird,car,grass,moon,road,star
+bench,car,cow,grass,road,sun
+bench,car,chicken,grass,road,sun
+bench,car,duck,grass,moon,road,star
+bench,car,cow,grass,road,sheep,sun
+bench,bus,dog,grass,road,sun
+bench,bus,cow,grass,moon,road,star
+bench,bus,grass,moon,road,sheep
+bench,bus,cow,grass,road,sheep,sun
+bench,bus,butterfly,cloud,duck,grass,road
+bench,bird,bus,grass,rabbit,road,sun
+bench,cow,grass,moon,road,truck
+bench,chicken,grass,road,sun,truck
+bench,cloud,duck,grass,road,sun,truck
+bench,grass,road,sheep,sun,truck
+bench,bird,cloud,cow,grass,road,truck
+bench,chicken,cow,grass,road,sun,truck
+bench,chicken,duck,grass,road,sun,truck
+bench,cow,grass,pig,road,sun,truck
+bench,cloud,cow,grass,road,sheep,truck
+bench,bird,cloud,flower,grass,road
+bench,dog,flower,grass,road,sun
+bench,cow,flower,grass,road,sun
+bench,cloud,flower,grass,rabbit,road
+bench,bird,cat,flower,grass,road,sun
+bench,bird,dog,flower,grass,road,sun
+bench,bird,cow,flower,grass,road,sun
+bee,bench,butterfly,flower,grass,road,sun
+bench,butterfly,flower,grass,rabbit,road,sun
+bench,bird,cloud,flower,grass,rabbit,road
+bird,cloud,grass,mountain,road,tree
+cow,grass,moon,mountain,road,tree
+chicken,grass,moon,mountain,road,star,tree
+cloud,duck,grass,mountain,road,tree
+cloud,grass,mountain,road,sheep,tree
+bird,cloud,cow,grass,mountain,road,tree
+cloud,cow,grass,mountain,pig,road,tree
+cow,grass,mountain,road,sheep,sun,tree
+bee,butterfly,grass,mountain,road,sun,tree
+bird,grass,mountain,rabbit,road,sun,tree
+bird,cloud,grass,mountain,people,road
+cow,grass,moon,mountain,people,road
+grass,moon,mountain,people,road,sheep,star
+bee,cloud,grass,mountain,people,road
+grass,moon,mountain,people,rabbit,road
+bird,cat,grass,mountain,people,road,sun
+bird,dog,grass,mountain,people,road,sun
+bird,cloud,cow,grass,mountain,people,road
+chicken,cow,grass,mountain,people,road,sun
+chicken,cloud,duck,grass,mountain,people,road
+cow,grass,mountain,people,pig,road,sun ,
+cloud,cow,grass,mountain,people,road,sheep
+car,dog,grass,moon,mountain,road
+car,cloud,cow,grass,mountain,road,sun
+bee,car,grass,moon,mountain,road,star
+car,grass,mountain,rabbit,road,sun
+car,cloud,cow,grass,mountain,road,sheep
+bird,car,cloud,grass,mountain,rabbit,road
+bus,cloud ,,cow,grass,mountain,road
+bus,cloud,grass,mountain,road,sheep,sun
+bus,grass,moon,mountain,rabbit,road,star
+bird,bus,cloud,cow,grass,mountain,road
+bus,chicken,duck,grass,mountain,road,sun
+bus,cow,grass,mountain,pig,road,sun
+bird,flower,grass,moon,mountain,road
+cat,flower,grass,moon,mountain,road,star
+dog,flower,grass,mountain,road,sun
+chicken,flower,grass,moon,mountain,road,star
+duck,flower,grass,moon,mountain,road
+butterfly,cloud,flower,grass,mountain,road
+bee,flower,grass,mountain,road,sun
+flower,grass,moon,mountain,rabbit,road,star
+bird,cat,flower,grass,mountain,road,sun
+bird,cloud,dog,flower,grass,mountain,road
+cat,dog,flower,grass,mountain,road,sun
+chicken,duck,flower,grass,mountain,road,sun
+bee,butterfly,cloud,flower,grass,mountain,road
+butterfly,flower,grass,mountain,rabbit,road,sun
+butterfly,cloud,duck,flower,grass,mountain,road
+bird,cloud,flower,grass,mountain,rabbit,road
+bench,bird,grass,moon,mountain,road,star
+bench,cat,cloud,grass,mountain,road
+bench,dog,grass,mountain,road,sun
+bench,chicken,cloud,grass,mountain,road,sun
+bench,duck,grass,moon,mountain,road
+bee,bench,butterfly,cloud,grass,mountain,road
+bench,butterfly,duck,grass,mountain,road,sun
+bench,bird,cloud,grass,mountain,rabbit,road
+bird,cloud,flower,grass,mountain,road,tree
+cat,cloud,flower,grass,mountain,road,tree
+dog,flower,grass,mountain,road,sun,tree
+chicken,flower,grass,mountain,road,sun,tree
+cloud,duck,flower,grass,mountain,road,tree
+butterfly,cloud,flower,grass,mountain,road,tree
+bee,flower,grass,mountain,road,sun,tree
+flower,grass,mountain,rabbit,road,sun,tree
+chicken,duck,flower,grass,mountain,road,tree
+bee,butterfly,flower,grass,mountain,road,tree
+butterfly,flower,grass,mountain,rabbit,road,tree
+butterfly,duck,flower,grass,mountain,road,tree
+bird,flower,grass,mountain,rabbit,road,tree
+bird,cloud,grass,mountain,people,road,tree
+cloud,cow,grass,mountain,people,road,tree
+cloud,duck,grass,mountain,people,road,tree
+cloud,grass,mountain,people,road,sheep,tree
+cloud,grass,mountain,people,rabbit,road,tree
+bird,cat,grass,mountain,people,road,tree
+bird,dog,grass,mountain,people,road,tree
+bird,cow,grass,mountain,people,road,tree
+chicken,cow,grass,mountain,people,road,tree
+cat,dog,grass,mountain,people,road,tree
+chicken,duck,grass,mountain,people,road,tree
+bird,cat,flower,grass,mountain,people,road
+chicken,cow,flower,grass,mountain,people,road
+cat,dog,flower,grass,mountain,people,road
+chicken,duck,flower,grass,mountain,people,road
+butterfly,flower,grass,mountain,people,rabbit,road
+butterfly,duck,flower,grass,mountain,people,road
+bird,flower,grass,mountain,people,rabbit,road
+butterfly,car,grass,mountain,road,sun,truck
+bus,cow,grass,mountain,road,sheep,truck
+bird,car,grass,mountain,people,road,sun
+butterfly,car,grass,mountain,people,road,sun
+bus,grass,mountain,people,rabbit,road,sun
+bus,cow,grass,mountain,people,pig,road
+bus,cow,grass,mountain,people,road,sheep
+bench,cat,grass,mountain,people,road,sun
+bench,car,grass,mountain,rabbit,road,sun
+bench,butterfly,car,grass,mountain,rabbit,road
+bench,bird,car,grass,mountain,rabbit,road
+bench,bird,bus,cloud,grass,mountain,road
+bench,bus,butterfly,grass,mountain,road,sun
+bench,bus,cow,grass,mountain,pig,road
+bench,bus,cow,grass,mountain,road,sheep
+bench,bird,grass,mountain,road,sun,truck
+bench,cloud,cow,grass,mountain,road,truck
+bench,chicken,cloud,grass,mountain,road,truck
+bench,grass,mountain,rabbit,road,sun,truck
+bench,cow,grass,mountain,road,sheep,truck
+bench,butterfly,grass,mountain,rabbit,road,truck
+bench,butterfly,duck,grass,mountain,road,truck
+bench,bird,grass,mountain,rabbit,road,truck
+bench,cow,flower,grass,mountain,road,sun
+bench,chicken,cloud,flower,grass,mountain,road
+bench,cloud,duck,flower,grass,mountain,road
+bench,butterfly,cloud,flower,grass,mountain,road
+bench,cow,flower,grass,mountain,pig,road
+bench,cow,flower,grass,mountain,road,sheep
+bee,bench,butterfly,flower,grass,mountain,road
+bench,bird,flower,grass,mountain,rabbit,road
+bird,grass,house,road,sun,tree
+cat,cloud,grass,house,road,tree
+cloud,dog,grass,house,road,sun,tree
+chicken,grass,house,road,sun,tree
+duck,grass,house,moon,road,tree
+butterfly,grass,house,moon,road,star,tree
+bird,cat,cloud,grass,house,road,tree
+bird,cloud,dog,grass,house,road,tree
+cat,cloud,dog,grass,house,road,tree
+chicken,duck,grass,house,road,sun,tree
+butterfly,cloud,duck,grass,house,road,tree
+bird,grass,house,people,road,sun
+cat,cloud,grass,house,people,road,sun
+dog,grass,house,people,road,sun
+chicken,grass,house,people,road,sun
+butterfly,grass,house,people,road,sun
+bee,grass,house,moon,people,road,star
+bird,cat,grass,house,people,road,sun
+bird,dog,grass,house,people,road,sun
+chicken,cloud,duck,grass,house,people,road
+bee,butterfly,cloud,grass,house,people,road
+butterfly,duck,grass,house,people,road,sun
+bird,car,grass,house,moon,road
+car,cat,grass,house,moon,road
+car,cloud,dog,grass,house,road,sun
+car,chicken,grass,house,moon,road,star
+car,duck,grass,house,road,sun
+butterfly,car,cloud,grass,house,road,sun
+bee,car,grass,house,moon,road
+bird,car,cat,cloud,grass,house,road
+bird,car,dog,grass,house,road,sun
+car,cat,dog,grass,house,road,sun
+car,chicken,duck,grass,house,road,sun
+butterfly,car,cloud,duck,grass,house,road
+bird,car,grass,house,rabbit,road,sun
+bird,bus,grass,house,moon,road
+bus,cat,grass,house,moon,road
+bus,cloud,dog,grass,house,road
+bus,chicken,grass,house,moon,road,star
+bus,duck,grass,house,moon,road
+bus,butterfly,grass,house,road,sun
+bee,bus,cloud,grass,house,road
+bird,bus,cat,cloud,grass,house,road
+bird,bus,cloud,dog,grass,house,road
+bus,chicken,duck,grass,house,road,sun
+bird,cloud,flower,grass,house,road
+cat,flower,grass,house,road,sun
+dog,flower,grass,house,moon,road,star
+chicken,flower,grass,house,moon,road,star
+duck,flower,grass,house,moon,road
+butterfly,cloud,flower,grass,house,road
+bee,cloud,flower,grass,house,road
+bird,cat,cloud,flower,grass,house,road
+bird,dog,flower,grass,house,road,sun
+chicken,cloud,duck,flower,grass,house,road
+bee,butterfly,cloud,flower,grass,house,road
+butterfly,cloud,duck,flower,grass,house,road
+bench,bird,grass,house,road,sun
+bench,cat,grass,house,road,sun
+bench,chicken,grass,house,moon,road
+bench,cloud,duck,grass,house,road
+bench,butterfly,grass,house,moon,road
+bee,bench,grass,house,moon,road
+bench,cloud,grass,house,rabbit,road
+bench,bird,cat,cloud,grass,house,road
+bench,bird,cloud,dog,grass,house,road
+bench,butterfly,duck,grass,house,road,sun
+bird,cloud,flower,grass,house,road,tree
+cat,cloud,flower,grass,house,road,tree
+dog,flower,grass,house,road,sun,tree
+chicken,cloud,flower,grass,house,road,tree
+cloud,duck,flower,grass,house,road,tree
+butterfly,cloud,flower,grass,house,road,tree
+bee,cloud,flower,grass,house,road,tree
+flower,grass,house,rabbit,road,sun,tree
+bird,cat,flower,grass,house,road,tree
+bird,dog,flower,grass,house,road,tree
+cat,dog,flower,grass,house,road,tree
+chicken,duck,flower,grass,house,road,tree
+bee,butterfly,flower,grass,house,road,tree
+butterfly,duck,flower,grass,house,road,tree
+bird,flower,grass,house,rabbit,road,tree
+bird,grass,house,people,road,sun,tree
+cat,cloud,grass,house,people,road,tree
+cloud,dog,grass,house,people,road,tree
+chicken,cloud,grass,house,people,road,tree
+cloud,duck,grass,house,people,road,tree
+butterfly,cloud,grass,house,people,road,tree
+bee,cloud,grass,house,people,road,tree
+bird,cat,grass,house,people,road,tree
+bird,dog,grass,house,people,road,tree
+bird,cow,grass,house,people,road,tree
+cat,dog,grass,house,people,road,tree
+chicken,duck,grass,house,people,road,tree
+bee,butterfly,grass,house,people,road,tree
+butterfly,duck,grass,house,people,road,tree
+bird,flower,grass,house,people,road,sun
+cat,flower,grass,house,people,road,sun
+dog,flower,grass,house,people,road,sun
+chicken,flower,grass,house,people,road,sun
+cloud,duck,flower,grass,house,people,road
+bee,butterfly,flower,grass,house,people,road
+butterfly,duck,flower,grass,house,people,road
+car,cow,grass,house,pig,road,truck
+car,cow,grass,house,road,sheep,truck
+bee,butterfly,car,grass,house,road,truck
+bird,car,cloud,grass,house,people,road
+car,cat,cloud,grass,house,people,road
+car,cloud,dog,grass,house,people,road
+car,cow,grass,house,people,road,sun
+car,chicken,cloud,grass,house,people,road
+car,duck,grass,house,people,road,sun
+car,cloud,grass,house,people,road,sheep
+butterfly,car,grass,house,people,road,sun
+car,chicken,cow,grass,house,people,road
+car,chicken,duck,grass,house,people,road
+car,cow,grass,house,people,pig,road
+car,cow,grass,house,people,road,sheep
+butterfly,car,duck,grass,house,people,road
+bird,car,grass,house,people,rabbit,road
+bench,bird,grass,house,people,road,sun
+bench,cloud ,,dog,grass,house,people,road
+bench,butterfly,cloud,grass,house,people,road
+bench,cow,grass,house,people,pig,road
+bench,cow,grass,house,people,road,sheep
+bench,bird,bus,grass,house,road,sun
+bench,bird,bus,dog,grass,house,road
+bench,bird,cloud,grass,house,road,truck
+bench,bird,flower,grass,house,road,sun
+bench,cat,flower,grass,house,road,sun
+bench,dog,flower,grass,house,road,sun
+bench,chicken,flower,grass,house,road,sun
+bench,cloud,duck,flower,grass,house,road
+bench,butterfly,cloud,flower,grass,house,road
+bee,bench,flower,grass,house,road,sun
+bench,bird,cat,flower,grass,house,road
+bench,bird,dog,flower,grass,house,road
+bee,bench,butterfly,flower,grass,house,road
+bird,cloud,fence,grass,house,sun,tree
+cat,cloud,fence,grass,house,tree
+dog,fence,grass,house,moon,star,tree
+cow,fence,grass,house,moon,tree
+chicken,fence,grass,house,sun,tree
+fence,grass,house,moon,sheep,tree
+bird,cow,fence,grass,house,sun,tree
+chicken,cow,fence,grass,house,sun,tree
+cat,cloud,dog,fence,grass,house,tree
+chicken,cloud,duck,fence,grass,house,tree
+cloud,cow,fence,grass,house,pig,tree
+cow,fence,grass,house,sheep,sun,tree
+bird,fence,grass,house,people,sun
+cow,fence,grass,house,moon,people
+fence,grass,house,moon,people,sheep
+bird,cow,fence,grass,house,people,sun
+chicken,cloud,cow,fence,grass,house,people
+cow,fence,grass,house,people,pig,sun
+cow,fence,grass,house,people,sheep,sun
+bird,fence,flower,grass,house,sun
+cat,cloud,fence,flower,grass,house,sun
+cow,fence,flower,grass,house,sun
+chicken,fence,flower,grass,house,moon,star
+duck,fence,flower,grass,house,moon
+fence,flower,grass,house,sheep,sun
+bee,cloud,fence,flower,grass,house,sun
+bird,cloud,cow,fence,flower,grass,house
+chicken,cow,fence,flower,grass,house,sun
+cloud,cow,fence,flower,grass,house,pig
+cloud,cow,fence,flower,grass,house,sheep
+bird,cloud,fence,flower,grass,house,tree
+cloud,cow,fence,flower,grass,house,tree
+cloud,fence,flower,grass,house,sheep,tree
+butterfly,fence,flower,grass,house,sun,tree
+bee,cloud,fence,flower,grass,house,tree
+bird,cat,fence,flower,grass,house,tree
+bird,dog,fence,flower,grass,house,tree
+bird,cow,fence,flower,grass,house,tree
+chicken,cow,fence,flower,grass,house,tree
+chicken,duck,fence,flower,grass,house,tree
+cow,fence,flower,grass,house,pig,tree
+cow,fence,flower,grass,house,sheep,tree
+bee,butterfly,fence,flower,grass,house,tree
+butterfly,duck,fence,flower,grass,house,tree
+bird,fence,flower,grass,house,rabbit,tree
+bird,cloud,fence,grass,house,people,tree
+cow,fence,grass,house,people,sun,tree
+chicken,cloud,fence,grass,house,people,tree
+cloud,duck,fence,grass,house,people,tree
+fence,grass,house,people,sheep,sun,tree
+butterfly,cloud,fence,grass,house,people,tree
+bird,cow,fence,grass,house,people,tree
+chicken,cow,fence,grass,house,people,tree
+chicken,duck,fence,grass,house,people,tree
+cow,fence,grass,house,people,pig,tree
+cow,fence,grass,house,people,sheep,tree
+bird,fence,flower,grass,house,people,sun
+cow,fence,flower,grass,house,people,sun
+cloud,fence,flower,grass,house,people,sheep
+butterfly,fence,flower,grass,house,people,sun
+bee,fence,flower,grass,house,people,sun
+bird,cow,fence,flower,grass,house,people
+chicken,cow,fence,flower,grass,house,people
+cow,fence,flower,grass,house,people,sheep
+bench,bird,fence,flower,grass,house,sun
+bench,cat,fence,flower,grass,house,sun
+bench,cow,fence,flower,grass,house,sun
+bench,chicken,cloud,fence,flower,grass,house
+bench,duck,fence,flower,grass,house,sun
+bench,fence,flower,grass,house,sheep,sun
+bench,butterfly,fence,flower,grass,house,sun
+bee,bench,cloud,fence,flower,grass,house
+bench,bird,cow,fence,flower,grass,house
+bench,chicken,cow,fence,flower,grass,house
+bench,cow,fence,flower,grass,house,pig
+bench,cow,fence,flower,grass,house,sheep
+bee,bench,butterfly,fence,flower,grass,house
+apple,banana,cloud,mountain,picnic rug,sun,tree
+apple,cloud,grape,mountain,picnic rug,tree
+banana,grape,mountain,picnic rug,sun,tree
+apple,banana,basket,mountain,picnic rug,sun,tree
+apple,basket,grape,mountain,picnic rug,sun,tree
+banana,basket,cloud,grape,mountain,picnic rug,tree
+apple,banana,mountain,sun,table,tree
+moon,mountain,people,star,table
+apple,banana,cloud,mountain,people,picnic rug,sun
+apple,banana,basket,mountain,people,picnic rug,sun
+apple,basket,cloud,grape,mountain,people,table
+banana,basket,cloud,grape,mountain,people,table
+cloud,flower,mountain,sun,table
+apple,banana,flower,mountain,picnic rug,sun
+apple,cloud,flower,grape,mountain,picnic rug,sun
+apple,banana,basket,cloud,flower,mountain,picnic rug
+bench,moon,mountain,star,table
+apple,banana,bench,mountain,picnic rug,sun ,
+apple,bench,cloud,grape,mountain,picnic rug,sun
+banana,bench,grape,mountain,picnic rug,sun
+apple,banana,basket,bench,cloud,mountain,picnic rug
+apple,basket,bench,cloud,grape,mountain,picnic rug
+apple,banana,bench,moon,mountain,star,table
+apple,basket,bench,grape,mountain,sun,table
+banana,basket,bench,cloud,grape,mountain,table
+flower,moon,mountain,table,tree
+apple,banana,cloud,flower,mountain,picnic rug,tree
+apple,banana,basket,flower,mountain,picnic rug,tree
+apple,basket,flower,grape,mountain,picnic rug,tree
+banana,basket,flower,grape,mountain,picnic rug,tree
+moon,mountain,people,star,table,tree
+apple,banana,mountain,people,picnic rug,sun,tree
+apple,grape,mountain,people,picnic rug,sun,tree
+apple,basket,grape,mountain,people,picnic rug,tree
+banana,basket,grape,mountain,people,picnic rug,tree
+flower,moon,mountain,people,table
+apple,banana,flower,mountain,people,picnic rug,sun
+apple,cloud,flower,grape,mountain,people,picnic rug
+apple,banana,basket,flower,mountain,people,picnic rug
+apple,banana,bench,mountain,people,picnic rug,sun
+banana,bench,grape,mountain,people,picnic rug,sun
+banana,basket,bench,grape,mountain,people,picnic rug
+apple,balloon,banana,mountain,people,picnic rug,sun
+apple,balloon,cloud,grape,mountain,people,picnic rug
+balloon,banana,cloud,grape,mountain,people,picnic rug
+apple,balloon,banana,mountain,people,sun,table
+apple,balloon,basket,grape,mountain,people,table
+balloon,banana,basket,grape,mountain,people,table
+bench,flower,moon,mountain,table
+apple,banana,bench,cloud,flower,mountain,picnic rug
+banana,bench,cloud,flower,grape,mountain,picnic rug
+apple,banana,bench,flower,mountain,sun,table
+apple,basket,bench,flower,grape,mountain,table
+banana,basket,bench,flower,grape,mountain,table
+bench,cloud,mountain,people,table
+apple,banana,bench,mountain,people,picnic rug,sun
+apple,bench,grape,mountain,people,picnic rug,sun
+banana,bench,cloud,grape,mountain,people,picnic rug
+moon,mountain,road,table,tree
+apple,banana,mountain,picnic rug,road,sun,tree
+apple,banana,basket,mountain,picnic rug,road,tree
+apple,banana,cloud,mountain,road,table,tree
+banana,basket,grape,mountain,road,table,tree
+cloud,mountain,people,road,table
+apple,banana,cloud,mountain,people,picnic rug,road
+apple,banana,basket,mountain,people,picnic rug,road
+banana,basket,grape,mountain,people,picnic rug,road
+apple,banana,cloud,mountain,people,road,table
+apple,basket,grape,mountain,people,road,table
+flower,moon,mountain,road,star,table
+apple,banana,cloud,flower,mountain,picnic rug,road
+apple,banana,basket,flower,mountain,picnic rug,road
+banana,basket,flower,grape,mountain,picnic rug,road
+apple,basket,flower,grape,mountain,road,table
+bench,moon,mountain,road,table
+apple,banana,bench,mountain,picnic rug,road,sun
+banana,bench,cloud,grape,mountain,picnic rug,road
+apple,basket,bench,grape,mountain,picnic rug,road
+banana,basket,bench,grape,mountain,road,table
+cloud,flower,mountain,road,table,tree
+apple,banana,flower,mountain,picnic rug,road,tree
+apple,banana,flower,mountain,road,table,tree
+cloud,mountain,people,road,table,tree
+apple,banana,mountain,people,picnic rug,road,tree
+apple,banana,mountain,people,road,table,tree
+banana,basket,grape,mountain,people,road,table,tree
+apple,banana,flower,mountain,people,picnic rug,road
+apple,banana,flower,mountain,people,road,table
+bench,cloud ,,mountain,people,road,table
+apple,banana,bench,mountain,people,picnic rug,road
+apple,bench,grape,mountain,people,picnic rug,road
+apple,banana,bench,mountain,people,road,table
+balloon,mountain,people,road,sun ,,table
+apple,balloon,banana,mountain,people,picnic rug,road
+balloon,banana,grape,mountain,people,picnic rug,road
+apple,balloon,banana,mountain,people,road,table
+bench,flower,moon,mountain,road,star,table
+apple,banana,bench,flower,mountain,picnic rug,road
+banana,bench,flower,grape,mountain,picnic rug,road
+apple,banana,bench,flower,mountain,road,table
+apple,banana,bench,mountain,people,picnic rug,road
+apple,banana,bench,mountain,people,road,table
+bench,cloud,flower,mountain,people,road,table
+house,road,sun,table,tree
+apple,banana,house,picnic rug,road,sun,tree
+apple,banana,basket,house,picnic rug,road,tree
+apple,banana,house,road,sun,table,tree
+banana,basket,grape,house,road,table,tree
+house,people,road,sun,table
+apple,banana,house,people,picnic rug,road,sun
+apple,banana,basket,house,people,picnic rug,road
+apple,banana,house,people,road,sun,table
+apple,basket,grape,house,people,road,table
+cloud,flower,house,road,sun,table
+apple,cloud,flower,grape,house,picnic rug,road
+apple,banana,basket,flower,house,picnic rug,road
+apple,basket,flower,grape,house,road,table
+bench,house,road,sun,table
+apple,banana,bench,house,picnic rug,road,sun
+apple,banana,basket,bench,house,picnic rug,road
+apple,banana,bench,house,road,sun,table
+banana,basket,bench,grape,house,road,table
+flower,house,moon,road,star,table,tree
+apple,flower,grape,house,picnic rug,road,tree
+apple,banana,flower,house,road,table,tree
+apple,basket,flower,grape,house,road,table,tree
+house,moon ,,people,road,table,tree
+apple,banana,house,people,picnic rug,road,tree
+apple,banana,house,people,road,table,tree
+flower,house,moon ,,people,road,table
+apple,banana,flower,house,people,picnic rug,road
+apple,banana,flower,house,people,road,table
+bench,house,moon ,,people,road,table
+apple,banana,bench,house,people,picnic rug,road
+apple,banana,bench,house,people,road,table
+balloon,house,people,road,sun,table
+apple,balloon,banana,house,people,picnic rug,road
+apple,balloon,banana,house,people,road,table
+bench,flower,house,moon,road,table
+apple,banana,bench,flower,house,picnic rug,road
+apple,banana,bench,flower,house,road,table
+bench,house,moon,people,road,star,table
+apple,banana,bench,house,people,picnic rug,road
+apple,banana,bench,house,people,road,table
+bench,cloud,flower,house,people,road,table
+cloud,grass,road,sun,table,tree
+apple,banana,cloud,grass,picnic rug,road,tree
+apple,banana,cloud,grass,road,table,tree
+banana,basket,grape,grass,road,table,tree
+cloud,grass,people,road,sun,table
+apple,grape,grass,people,picnic rug,road,sun
+apple,banana,basket,grass,people,picnic rug,road
+apple,banana,cloud,grass,people,road,table
+banana,basket,grape,grass,people,road,table
+cloud,flower,grass,road,table
+apple,banana,flower,grass,picnic rug,road,sun
+banana,basket,flower,grape,grass,picnic rug,road
+apple,banana,cloud,flower,grass,road,table
+banana,basket,flower,grape,grass,road,table
+bench,cloud,grass,road,table
+apple,banana,bench,cloud,grass,picnic rug,road
+apple,bench,grape,grass,picnic rug,road,sun
+apple,banana,basket,bench,grass,picnic rug,road
+apple,banana,bench,cloud,grass,road,table
+banana,basket,bench,grape,grass,road,table
+flower,grass,moon,road,table,tree
+apple,banana,flower,grass,picnic rug,road,tree
+apple,banana,flower,grass,road,table,tree
+grass,people,road,sun,table,tree
+apple,banana,grass,people,picnic rug,road,tree
+apple,banana,grass,people,road,table,tree
+flower,grass,people,road,sun,table
+apple,banana,flower,grass,people,picnic rug,road
+apple,banana,flower,grass,people,road,table
+bench,grass,moon,people,road,star,table
+balloon,cloud,grass,people,road,table
+apple,balloon,banana,grass,people,picnic rug,road
+apple,balloon,banana,grass,people,road,table
+bench,cloud,flower,grass,road,sun,table
+apple,banana,bench,flower,grass,picnic rug,road
+apple,banana,bench,flower,grass,road,table
+bench,grass,people,road,sun,table
+apple,banana,bench,grass,people,picnic rug,road
+apple,banana,bench,grass,people,road,table
+bench,cloud,flower,grass,people,road,table
+grass,moon,mountain,road,star,table,tree
+apple,banana,grass,mountain,picnic rug,road,tree
+apple,banana,grass,mountain,road,table,tree
+grass,moon,mountain,people,road,star,table
+apple,banana,grass,mountain,people,picnic rug,road
+apple,banana,grass,mountain,people,road,table
+flower,grass,mountain,road,sun ,,table
+apple,banana,flower,grass,mountain,picnic rug,road
+apple,banana,flower,grass,mountain,road,table
+bench,cloud,grass,mountain,road,table
+apple,banana,bench,grass,mountain,picnic rug,road
+apple,banana,bench,grass,mountain,road,table
+cloud,flower,grass,mountain,road,table,tree
+grass,mountain,people,road,sun,table,tree
+cloud,flower,grass,mountain,people,road,table
+bench,cloud,grass,mountain,people,road,table
+balloon,cloud,grass,mountain,people,road,table
+bench,cloud,flower,grass,mountain,road,table
+cloud,grass,house,road,table,tree
+apple,banana,grass,house,picnic rug,road,tree
+apple,banana,grass,house,road,table,tree
+grass,house,people,road,sun,table
+apple,banana,grass,house,people,picnic rug,road
+apple,banana,grass,house,people,road,table
+cloud,flower,grass,house,road,sun,table
+apple,banana,flower,grass,house,picnic rug,road
+apple,banana,bench,grass,house,road,table
+flower,grass,house,people,road,sun,table
+bench,cloud,grass,house,people,road,table
+bench,flower,grass,house,people,road,table
+house,people,road,cloud,grass
+house,people,road,cloud,grass
+chair,table
