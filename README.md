@@ -19,7 +19,8 @@ Live demo / toolbox is located at http://duruofei.com/sketest/?task=1
 # Build
 
 ## Dependencies
-* ThinkPHP 5.0, please clone the framework as follows:
+* ThinkPHP 5.0, please download from http://duruofei.com/skenew/thinkphp.zip
+* [Deprecated] Clone the framework as follows; however, the new version is not compatible with our code base.
 ```bash
     git clone https://github.com/top-think/framework thinkphp
 ```
